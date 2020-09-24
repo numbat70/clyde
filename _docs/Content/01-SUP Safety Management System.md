@@ -13,21 +13,19 @@ order: 1
 
 ## What is a Safety Management System (SMS)
 - EAP
-- Risk Assesment
+- Risk Assessment
 - SOP
 - Logs & Registers
+- Covid Policy & Procedures
 
 
-##  
 
-**  **
+## EAP
 
-**  **
+## Risk Assessment
 
-**  **
+## SOP
 
-**  **
+## Logs and Registers
 
-**  **
-
-**  **
+## Covid Policy 
