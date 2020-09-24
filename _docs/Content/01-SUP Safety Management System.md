@@ -30,7 +30,7 @@ This is a functional document that defines what to do in case of an emergency, a
 - EAP (Prestwick - SUP) (TBC)
 - EAP (Loch Lomond Luss - SUP) (TBC)
 
-Recent updates to the EAP's are the use of ("What 3 Words")[https://what3words.com] location indicators. 
+Recent updates to the EAP's are the use of ["What 3 Words"](https://what3words.com) location indicators. 
 
 
 ## Risk Assessment
