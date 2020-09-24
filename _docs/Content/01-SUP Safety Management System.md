@@ -3,28 +3,37 @@ title: SUP Safety Management System
 category: SUP
 order: 1
 ---
-**Always put the Customer first**
 
-## Why have a Safety Management System (SMS)
+## Why we have a Safety Management System (SMS)
 - Keep people Safe
+- Learn how to improve safety through experience
 - Legal protection
 - Required for licensing and insurance
 - Public, Customer, Stakeholder & Staff Confidence
 
-## What is a Safety Management System (SMS)
-- EAP
+## What is our Safety Management System (SMS)
+- EAP (Emergency Action Plan)
 - Risk Assessment
-- SOP
+- SOP (Standard Operating Procedures)
 - Logs & Registers
-- Covid Policy & Procedures
+- Covid Policy & Procedure
+- Anything else that helps
 
 
-## EAP
+## EAP (Emergency Action Plan)
+
+
 
 ## Risk Assessment
 
+
+
 ## SOP
 
+
+
 ## Logs and Registers
+
+
 
 ## Covid Policy
