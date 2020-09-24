@@ -19,7 +19,6 @@ order: 1
 - Covid Policy & Procedures
 
 
-
 ## EAP
 
 ## Risk Assessment
@@ -28,4 +27,4 @@ order: 1
 
 ## Logs and Registers
 
-## Covid Policy 
+## Covid Policy
