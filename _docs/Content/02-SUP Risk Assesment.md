@@ -13,8 +13,10 @@ and these can be
 - Qualitative (Enough, Too much etc...)
 - Quantitative (Numbers, limits etc...)
 
-## Risk Assesment - Lochwinnoch (Castle Semple Loch: Main Site)
-- 
+## Risk Assessment - Lochwinnoch (Castle Semple Loch: Main Site)
+The Loch is quite a safe environment with most risks coming from shore hazards, wind and other water users.
+[Read the full risk assessment here](#)
+
 
 
 
