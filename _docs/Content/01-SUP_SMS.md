@@ -1,5 +1,5 @@
 ---
-title: SUP Safety Management System
+title: Safety Management System
 category: SUP
 order: 1
 ---
