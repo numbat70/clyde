@@ -5,9 +5,9 @@ order: 2
 ---
 
 ## Types of Risk
-- Generic
-- Site Specific
-- Dynamic
+- Generic (always the same)
+- Site Specific (specific to the location)
+- Dynamic (need to be assessed on the day and continuously during the activity)
 
 and these can be
 - Qualitative (Enough, Too much etc...)
