@@ -1,5 +1,5 @@
 ---
-title: SUP Risk Assesment
+title: Risk Assesment
 category: SUP
 order: 2
 ---

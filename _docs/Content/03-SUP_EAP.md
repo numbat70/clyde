@@ -1,5 +1,5 @@
 ---
-title: SUP EAP (Emergency Action Plan)
+title: EAP (Emergency Action Plan)
 category: SUP
 order: 3
 ---
