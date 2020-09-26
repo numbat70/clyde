@@ -5,7 +5,7 @@ title: Clyde Toolkit
 # url: "https://numbat70.github.io/edition-jekyll-template/search/?q=friends"
 url: "https://numbat70.github.io/edition-jekyll-template/search/?q=friends"
 baseurl: /clyde
-google_analytics_key:
+google_analytics_key: 
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
