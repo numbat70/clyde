@@ -1,5 +1,5 @@
 ---
-title: SOP (Standard Operating Procedures)
+title: SOP 
 category: SUP
 order: 4
 ---
