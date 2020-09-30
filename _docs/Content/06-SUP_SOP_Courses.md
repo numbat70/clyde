@@ -18,7 +18,12 @@ These procedures cover the delivery of Stand Up Paddle-board training and relate
 The following must be adhered to:
 - BSUPA qualified coach's will deliver the courses
 - Lessons will follow pre-planned itinerary's
-- A risk assessment will be completed by lead instructor before each session
+- A Dynamic Risk Assessment will be completed by lead instructor before each session covering:
+  - Surface
+  - Hazards
+  - Others
+  - Environment
+  - Any other pertinent information
 - The Instructor / Student ratios will be 1 to 6 or lower
 - Suitable kit will be provided for students including:
   - Buoyancy aid
