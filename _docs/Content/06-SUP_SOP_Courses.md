@@ -34,13 +34,13 @@ The following must be adhered to:
 
 Instructors will
   - Carry EAP
-  - Instructor students on EAP procedures and where it is stored in case of Instructor incapacitation (II)
-  - Carry mobile phone and tell Students how to use it in II situation
+  - Instructor students on EAP procedures and where it is stored in case of Instructor Incapacitation (II)
+  - Carry mobile phone and tell Students how to use it in "II" situation
   - Carry first aid kit (relevant to site)
   - Carry water and sugar source
   - Carry Rescue Knife
   - Carry Whistle
-  - Carry Spare Paddle (If appropriate to site. See site specific risk assesment)
+  - Carry Spare Paddle (If appropriate to site. See site specific risk assessment)
   - Provide a Safety briefing
   - Provide an overview of:
     - The session
