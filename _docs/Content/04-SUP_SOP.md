@@ -9,7 +9,7 @@ They will suggest
 - How we do it
 - Where we do it
 - When we do it
-And all teh factors that impact on these areas.
+And all the factors that impact on these areas.
 
 ## SOP Lochwinnoch
 **Summary**
