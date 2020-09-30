@@ -31,6 +31,7 @@ The following must be adhered to:
   - Wetsuit
   - SUP board
   - Leash
+
 Instructors will
   - Carry EAP
   - Instructor students on EAP procedures and where it is stored in case of Instructor incapacitation (II)
