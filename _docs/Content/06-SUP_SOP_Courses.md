@@ -52,7 +52,7 @@ Instructors will
 ## During
 The following must be adhered to:
 - The course will be delivered within 100m of shore and 250m from safe haven (Lochside path)
--
+
 
 ## After
 The following must be adhered to:
