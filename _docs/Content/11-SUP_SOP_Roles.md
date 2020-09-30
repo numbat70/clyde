@@ -7,9 +7,14 @@ Date: 30th Sept 2020
 
 ## Roles
 
-- Senior instructor
-- Instructors
-- Covid Officer
+Role | Name | Tel | Email  
+--- | --- | --- | ---
+Senior instructor | Name | Tel | Email
+Instructor | Name | Tel | Email
+Instructor | Name | Tel | Email
+Covid Officer | Name | Tel | Email
+
+
 
 
 
