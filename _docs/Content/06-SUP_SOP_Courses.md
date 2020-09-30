@@ -31,10 +31,27 @@ The following must be adhered to:
   - Wetsuit
   - SUP board
   - Leash
+Instructors will
+  - Carry EAP
+  - Instructor students on EAP procedures and where it is stored in case of Instructor incapacitation (II)
+  - Carry mobile phone and tell Students how to use it in II situation
+  - Carry first aid kit (relevant to site)
+  - Carry water and sugar source
+  - Carry Rescue Knife
+  - Carry Whistle
+  - Carry Spare Paddle (If appropriate to site. See site specific risk assesment)
+  - Provide a Safety briefing
+  - Provide an overview of:
+    - The session
+    - EAP location and Procedures
+    - demonstration of techniques that will be practiced
+
+
 
 ## During
 The following must be adhered to:
-
+- The course will be delivered within 100m of shore and 250m from safe haven (Lochside path)
+-
 
 ## After
 The following must be adhered to:
