@@ -10,6 +10,8 @@ Date: 30th Sept 2020
   - Footwear to use on the water
   - Dry clothing to change into after the activity
   - Towel and any shower supplies needed
+  - Emergency Contact Details
+  - Medical Info (relevant to SUP activity) 
 
 
 ## Before
