@@ -14,11 +14,10 @@ EAP | Emergency Action Plan
 SOP | Standard Operating Procedure/s
 II |  Instructor Incapacitated
 BSUPA | British Stand Up Paddleboard Association
-RYA | Royal YAchting Association
+RYA | Royal Yachting Association
 RNLI | Royal National Lifeboat Institute
  |
- |
- |
+
 
 
 
