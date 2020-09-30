@@ -1,7 +1,7 @@
 ---
-title: SOP - Courses
+title: SOP
 category: SUP
-order: 6
+order: 5
 ---
 Date: 30th Sept 2020
 
