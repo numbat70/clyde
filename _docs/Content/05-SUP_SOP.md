@@ -1,5 +1,5 @@
 ---
-title: SOP - Overview
+title: SOP - 1. Overview
 category: SUP
 order: 5
 ---
@@ -10,7 +10,7 @@ These procedures cover the delivery of Stand Up Paddle-board training and relate
 
 The following must be adhered to:
 - BSUPA qualified coach's will deliver the courses
-- The Instructor / Student ratioj will be 1 to 6 or lower
+- The Instructor / Student ratios will be 1 to 6 or lower
 - Suitable kit will be provided for students including:
       - Buoyancy aid
       - Paddle
@@ -22,16 +22,8 @@ The following must be adhered to:
    - Footwear to use on the water
    - Dry clothing to change into after the activity
    - Towel and any shower supplies needed
-
-
-
-
-## Site: Lochwinnoch
-**Summary**
-- Lochwinnoch is our base location and all activities run from the clubs compound.
-- Wind is the most common risk that will cancel sessions
-- Other users are a constant dynamic risk that will need assessed on the day.
-
+- Lessons will follow pre-planned itinerary's
+- A risk assessment will be completed by lead instructor before each session
 
 
 **[Read the full Lochwinnoch SOP here](/clyde/files/SOP.pdf)**
