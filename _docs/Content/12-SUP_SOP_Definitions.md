@@ -17,7 +17,8 @@ BSUPA | British Stand Up Paddleboard Association
 RYA | Royal Yachting Association
 RNLI | Royal National Lifeboat Institute
 PFD | Personal Flotation Device
-|
+RTB | Return To Base
+VHF | Very High Frequency (Radio)
 |
 
 **[Read the full Lochwinnoch SOP here](/clyde/files/SOP.pdf)**
