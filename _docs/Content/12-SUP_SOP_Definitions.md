@@ -16,9 +16,6 @@ II |  Instructor Incapacitated
 BSUPA | British Stand Up Paddleboard Association
 RYA | Royal Yachting Association
 RNLI | Royal National Lifeboat Institute
- |
-
-
 
 
 **[Read the full Lochwinnoch SOP here](/clyde/files/SOP.pdf)**
