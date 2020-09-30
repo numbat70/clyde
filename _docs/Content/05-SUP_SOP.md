@@ -1,5 +1,5 @@
 ---
-title: SOP - 1. Overview
+title: SOP - Overview
 category: SUP
 order: 5
 ---
