@@ -15,6 +15,12 @@ and these can be
 
 ## Risk Assessment - Generic
 ...
+
+Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
+--- | --- | --- | ---
+Slip on Waterside environment | All | Bruises and broken bones up to concussion and neck injury | Educate participants about slip hazard and mandate suitable footwear or bare feet
+
+
 [Read the full risk assessment here](#)
 
 ## Risk Assessment - Lochwinnoch (Castle Semple Loch: Main Site)
