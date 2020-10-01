@@ -29,6 +29,7 @@ Slip on Waterside environment | All | Bruises and broken bones up to concussion 
 ## Risks - Lochwinnoch (Castle Semple Loch: Main Site)
 The Loch is quite a safe environment with most risks coming from shore hazards, wind and other water users.
 [Read the full risk assessment here](#)
+
 Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 --- | --- | --- | ---
 Surface  |  |  |  
