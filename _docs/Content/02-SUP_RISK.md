@@ -42,10 +42,10 @@ Environment  |  |  |
 
 Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 --- | --- | --- | ---
-Surface  |  |  |  |
-Hazards  |  |  |  |
-Others  |  |  |  |
-Environment  |  |  |  |
+Surface  |  |  |  
+Hazards  |  |  |  
+Others  |  |  |  
+Environment  |  |  |  
 
 
 [Read the full risk assessment here](#)
