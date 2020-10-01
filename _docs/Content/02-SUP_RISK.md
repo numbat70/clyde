@@ -14,8 +14,6 @@ and these can be
 - Quantitative (Numbers, limits etc...)
 
 ## Risk - Generic
-...
-
 Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 --- | --- | --- | ---
 Slip on Waterside environment | All | Bruises and broken bones up to concussion and neck injury | Educate participants about slip hazard and mandate suitable footwear or bare feet
@@ -28,8 +26,6 @@ Slip on Waterside environment | All | Bruises and broken bones up to concussion 
 
 ## Risks - Lochwinnoch (Castle Semple Loch: Main Site)
 The Loch is quite a safe environment with most risks coming from shore hazards, wind and other water users.
-[Read the full risk assessment here](#)
-
 Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 --- | --- | --- | ---
 **Surface** Access road has stones that may injure soles of feet.  |  |  |
@@ -51,9 +47,3 @@ Environment  |  |  |
 
 
 [Read the full risk assessment here](#)
-
-
-
-
-
-Recent updates to the EAP's are the use of ["What 3 Words"](https://what3words.com) location indicators.
