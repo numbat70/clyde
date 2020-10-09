@@ -44,7 +44,13 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 --- | --- | --- | ---
 **Surface**  |  |  |  
 **Hazards**  |  |  |  
-**Others**  |  |  |  
+**Others** Sailors |  |  |  
+**Others** Rowers |  |  |  
+**Others** Kayakers |  |  |  
+**Others** MotorBoats |  |  |  
+**Others** SUP boarders |  |  |  
+
+
 **Environment**  |  |  |  
 
 
