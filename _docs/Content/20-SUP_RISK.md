@@ -21,10 +21,6 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 **Hazard** Slips, Trips & Falls on route to water  | All | Bruises and broken bones up to concussion and neck injury |  Educate users on Trip Hazards as well as the safe way to carry SUP and Paddle. Highlight the length of SUP's and how to avoid hitting things when navigating with them on land.
 **Hazard** Equipment failure  | All | Low initial severity if caught quickly. Raising severity if unresolved.  | All Kit checked prior to session (SOP Procedure) with a spare paddle carried by Instructor to meet most common equipment failure.
   |  |  |  
-  |  |  |  
-
-
-
 
 ## Risks - Lochwinnoch (Castle Semple Loch: Main Site)
 The Loch is quite a safe environment with most risks coming from shore hazards, wind and other water users.
