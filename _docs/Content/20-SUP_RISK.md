@@ -19,7 +19,7 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 --- | --- | --- | ---
 Slip on Waterside environment | All | Bruises and broken bones up to concussion and neck injury | Educate participants about slip hazard and mandate suitable footwear or bare feet
 Slips, Trips & Falls on route to water  | All | Bruises and broken bones up to concussion and neck injury |  Educate users on Trip Hazards as well as the safe way to carry SUP and Paddle. Highlight the length of SUP's and how to avoid hitting things when navigating with them on land.
-  |  |  |  
+Equipment failyure  | All | Low imediate severity if caught quickly. Raising severity if unresolved.  | All Kit checked prior to session (SOP Procedure) with a spare paddle carried by Instructor to meet most common equipment failure. 
   |  |  |  
   |  |  |  
   |  |  |  
