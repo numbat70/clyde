@@ -34,8 +34,4 @@ The physical surface of the Loch contains numerous
 Easterly or North Easterly winds blow directly onto the shore that we launch from. You should not operate when the wind, (now and forecast), is above 5knots
 
 Inline-style:
-![Wind Limits for SUP](wind.png "Wind Limits for SUP")
-
-
-
-**[Read the full Lochwinnoch SOP here](/clyde/files/SOP.pdf)**
+![Wind Limits for SUP](SUPwind.png "Wind Limits for SUP")
