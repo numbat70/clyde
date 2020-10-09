@@ -30,8 +30,8 @@ The Loch is quite a safe environment with most risks coming from shore hazards, 
 
 Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 --- | --- | --- | ---
-**Surface** Access road has stones that may injure soles of feet.  |  |  |
-**Surface** Floating Marker Buoys, Logs, vegetation and Fishing lines may all cause collision/entanglement hazards.  |  |  |  
+**Surface** Access road has stones that may injure soles of feet.  | All | Bruised feet. | Educate and recommend footwear to avoid injury
+**Surface** Floating Marker Buoys, Logs, vegetation and Fishing lines may all cause collision/entanglement hazards.  | All water users | Falling from board or leash entaglement |  Educate water users but also use zoning to minimise time near known hazards
 **Hazards**  |  |  |  
 **Others**  |  |  |  
 **Environment**  |  |  |
