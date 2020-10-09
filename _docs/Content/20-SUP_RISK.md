@@ -48,7 +48,7 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 
 Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 --- | --- | --- | ---
-**Surface**  |  |  |  
+**Surface** Wind chop | All water users | Winds may raise small sharp waves (wind chop) that make it difficuklt for students to stand on their boards. This raises a falling hazard with a small potential for injury or Drowning | Ensure that Wind Chop is constantly monitored with a preference for going directly into or away from it. This removes the rolling momenbt that causes most students to fall.  
 **Hazards**  |  |  |  
 **Others** Sailors | All water users | Collision | Educate around likely areas of meeting sailors and zone to avoid this. Sailors will congregate around route marking buoys and this is an example of a location to avoid.  
 **Others** Rowers |  All water users| High speed collision |  Educate around the high speed that rowers travel. Highlight that they are looking backwards and have very limited steering ability. Zone to avoid rowing course or training lanes where possible. If forced to cross, then do so in a managed group, that is under close supervision by lead instructor.
