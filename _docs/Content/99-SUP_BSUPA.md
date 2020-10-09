@@ -1,6 +1,6 @@
 ---
 title: BSUPA
-category: SUP
+category: SUP General
 order: 99
 ---
 

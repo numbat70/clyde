@@ -1,6 +1,6 @@
 ---
 title: Safety Management System
-category: SUP
+category: SUP Safety Management System
 order: 1
 ---
 
