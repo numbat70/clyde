@@ -14,9 +14,9 @@ order: 1
 ## What is our Safety Management System (SMS)
 It is where all the relevant safety related documents, procedures and knowledge are collated, taught, shared and used.
 It includes these documents
+- [SOP (Standard Operating Procedures)](https://numbat70.github.io/clyde/Content/04-SUP_SOP)
 - [EAP (Emergency Action Plan)](https://numbat70.github.io/clyde/Content/03-SUP_EAP)
 - [Risk Assessment](https://numbat70.github.io/clyde/Content/02-SUP_RISK)
-- [SOP (Standard Operating Procedures)](https://numbat70.github.io/clyde/Content/04-SUP_SOP)
 - Logs & Registers
 - Covid Policy & Procedure
 - Anything else that helps
