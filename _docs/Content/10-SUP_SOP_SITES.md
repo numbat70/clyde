@@ -26,9 +26,16 @@ The physical surface of the Loch contains numerous
 - Lochwinnoch is not tidal but is open to wind.
 - Winds are usually SW or NE which either blow UP or DOWN the length of the loch.
 - We should operating ideally at 8kts or less with a hard maximum of 15kts.
-- When the wind is South Westerly the best are to perate is at the SW end of teh Loch. This is nearest the Annexe and Largs road. It offers shelter but is exposed until you reach it. Hugging the shore offers some protection en-route.
-- When the wind is North Easterly the best operating area is BlackDitch Bay. This offers some protection but is Very Exposed to eind en-route.  
-- When assessing wind, it is likely that a lighter NE wind will cancel a session, 10kts or above, than would be the case with a SW wind.
+- When the wind is South Westerly the best area to operate is at the SW end of the Loch. This is nearest the Annexe and Largs road. It offers shelter but is exposed until you reach it. Hugging the car park shore offers some protection en-route.
+- When the wind is North Easterly the best operating area is BlackDitch Bay. This offers some protection but is Very Exposed to wind en-route.  
+- When assessing wind, it is likely that a lighter NE wind will cancel a session, 10kts gusts or above, than would be the case with a SW wind.
+- Westerly wind can cause a deceptively calm shore as the hills behind you are sheltering the near shore BUT it will get windy after 50 metres offshore.
+- When operating in Westerly or North Westerly winds, keep strict zoning to hold water users with 50metres of the shore near the visitors centre or compound (Nw Shoreline)
+Easterly or North Easterly winds blow directly onto the shore that we launch from. You should not operate when the wind, (now and forecast), is above 5knots
+
+Inline-style:
+![Wind Limits for SUP](wind.png "Wind Limits for SUP")
+
 
 
 **[Read the full Lochwinnoch SOP here](/clyde/files/SOP.pdf)**
