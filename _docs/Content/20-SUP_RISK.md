@@ -20,10 +20,6 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 Slip on Waterside environment | All | Bruises and broken bones up to concussion and neck injury | Educate participants about slip hazard and mandate suitable footwear or bare feet
   |  |  |  
   |  |  |  
-  Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
-
-
-[Read the full risk assessment here](#)
 
 ## Risks - Lochwinnoch (Castle Semple Loch: Main Site)
 The Loch is quite a safe environment with most risks coming from shore hazards, wind and other water users.
@@ -31,7 +27,7 @@ The Loch is quite a safe environment with most risks coming from shore hazards, 
 Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 --- | --- | --- | ---
 **Surface** Access road has stones that may injure soles of feet.  | All | Bruised feet. | Educate and recommend footwear to avoid injury
-**Surface** Floating Marker Buoys, Logs, vegetation and Fishing lines may all cause collision/entanglement hazards.  | All water users | Falling from board or leash entaglement |  Educate water users but also use zoning to minimise time near known hazards
+**Surface** Floating Marker Buoys, Logs, vegetation and Fishing lines may all cause collision/entanglement hazards.  | All water users | Falling from board or leash entanglement |  Educate water users but also use zoning to minimise time near known hazards
 **Hazards**  |  |  |  
 **Others**  |  |  |  
 **Environment**  |  |  |
@@ -44,11 +40,11 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 --- | --- | --- | ---
 **Surface**  |  |  |  
 **Hazards**  |  |  |  
-**Others** Sailors |  |  |  
-**Others** Rowers |  |  |  
-**Others** Kayakers |  |  |  
-**Others** MotorBoats |  |  |  
-**Others** SUP boarders |  |  |  
+**Others** Sailors | All water users | Collision | Educate around likely areas of meeting sailors and zone to avoid this. Sailors will congregate around route marking buoys and this is an example of a location to avoid.  
+**Others** Rowers |  All water users| High speed collision |  Educate around the high speed that rowers travel. ALso that they are looking backwards and have very limited steering ability. Zone to avoid rowing course or training lanes where possible. If forced to cross then do so in a managed group that is under close supervision by lead instructor.
+**Others** Kayakers | All water users |  |  
+**Others** MotorBoats | All water users |  |  
+**Others** SUP boarders | All water users |  |  
 
 
 **Environment**  |  |  |  
