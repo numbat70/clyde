@@ -22,8 +22,7 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 **Hazard** Equipment failure  | All | Low initial severity if caught quickly. Raising severity if unresolved.  | All Kit checked prior to session (SOP Procedure) with a spare paddle carried by Instructor to meet most common equipment failure.
   |  |  |  
   |  |  |  
-  |  |  |  
-  |  |  |  
+
 
 
 
