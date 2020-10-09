@@ -32,9 +32,9 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 --- | --- | --- | ---
 **Surface** Access road has stones that may injure soles of feet.  |  |  |
 **Surface** Floating Marker Buoys, Logs, vegetation and Fishing lines may all cause collision/entanglement hazards.  |  |  |  
-Hazards  |  |  |  
-Others  |  |  |  
-Environment  |  |  |  
+**Hazards**  |  |  |  
+**Others**  |  |  |  
+**Environment**  |  |  |
 
 
 ## Risks - Dynamic
@@ -43,9 +43,9 @@ Environment  |  |  |
 Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 --- | --- | --- | ---
 **Surface**  |  |  |  
-Hazards  |  |  |  
-Others  |  |  |  
-Environment  |  |  |  
+**Hazards**  |  |  |  
+**Others**  |  |  |  
+**Environment**  |  |  |  
 
 
 [Read the full risk assessment here](#)
