@@ -33,5 +33,5 @@ The physical surface of the Loch contains numerous
 - When operating in Westerly or North Westerly winds, keep strict zoning to hold water users with 50metres of the shore near the visitors centre or compound (Nw Shoreline)
 Easterly or North Easterly winds blow directly onto the shore that we launch from. You should not operate when the wind, (now and forecast), is above 5knots
 
-Inline-style:
+Operational Wind Limits by Wind Direction:
 ![Wind Limits for SUP](SUPwind.png "Wind Limits for SUP")
