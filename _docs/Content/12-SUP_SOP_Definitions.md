@@ -1,6 +1,6 @@
 ---
 title: SOP - Definitions
-category: SUP
+category: SUP Safety Management System
 order: 12
 ---
 Date: 30th Sept 2020

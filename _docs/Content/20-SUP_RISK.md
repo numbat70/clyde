@@ -1,6 +1,6 @@
 ---
 title: Risk Assesment
-category: SUP
+category: SUP Safety Management System
 order: 20
 ---
 

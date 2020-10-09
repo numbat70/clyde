@@ -1,6 +1,6 @@
 ---
 title: SOP - Overview
-category: SUP
+category: SUP Safety Management System
 order: 5
 ---
 Date: 30th Sept 2020

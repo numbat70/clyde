@@ -1,6 +1,6 @@
 ---
 title: SOP - Roles & Responsibilities
-category: SUP
+category: SUP Safety Management System
 order: 11
 ---
 Date: 30th Sept 2020

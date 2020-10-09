@@ -1,6 +1,6 @@
 ---
-title: SOP 
-category: SUP
+title: SOP
+category: SUP Safety Management System
 order: 4
 ---
 Standard Operating Procedures give  relevant details needed to run daily activities.

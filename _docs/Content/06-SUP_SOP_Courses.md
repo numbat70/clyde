@@ -1,6 +1,6 @@
 ---
 title: SOP - Courses
-category: SUP
+category: SUP Safety Management System
 order: 6
 ---
 Date: 30th Sept 2020
@@ -11,7 +11,7 @@ Date: 30th Sept 2020
   - Dry clothing to change into after the activity
   - Towel and any shower supplies needed
   - Emergency Contact Details
-  - Medical Info (relevant to SUP activity) 
+  - Medical Info (relevant to SUP activity)
 
 
 ## Before
