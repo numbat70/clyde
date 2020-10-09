@@ -40,18 +40,3 @@ This is for:
 - Ideas or suggestions
 
 Use the [Learning Form](#) to log these
-
-
-
-azard | Who | Severity & Consequences (Potential) | ControlMeasure
---- | --- | --- | ---
-**Surface**  |  |  |  
-**Hazards**  |  |  |  
-**Others** Sailors | All water users | Collision | Educate around likely areas of meeting sailors and zone to avoid this. Sailors will congregate around route marking buoys and this is an example of a location to avoid.  
-**Others** Rowers |  All water users| High speed collision |  Educate around the high speed that rowers travel. Highlight that they are looking backwards and have very limited steering ability. Zone to avoid rowing course or training lanes where possible. If forced to cross, then do so in a managed group, that is under close supervision by lead instructor.
-**Others** Kayakers | All water users |  |  
-**Others** MotorBoats | All water users |  |  
-**Others** SUP boarders | All water users |  |  
-
-
-**Environment**  |  |  |  
