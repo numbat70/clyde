@@ -20,7 +20,6 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 **Hazard** Slip on Waterside environment | All | Bruises and broken bones up to concussion and neck injury | Educate participants about slip hazard and mandate suitable footwear or bare feet
 **Hazard** Slips, Trips & Falls on route to water  | All | Bruises and broken bones up to concussion and neck injury |  Educate users on Trip Hazards as well as the safe way to carry SUP and Paddle. Highlight the length of SUP's and how to avoid hitting things when navigating with them on land.
 **Hazard** Equipment failure  | All | Low initial severity if caught quickly. Raising severity if unresolved.  | All Kit checked prior to session (SOP Procedure) with a spare paddle carried by Instructor to meet most common equipment failure.
-**Environment** Unexpectedly poor weather  | All | Low initial severity if caught quickly. Raising severity if unresolved.  |  Instructor to maintaina constant watch on weather conditions and curtail the session before it becomes a problem. Make students aware in onshore demo that this may happen.
   |  |  |  
   |  |  |  
   |  |  |  
@@ -56,6 +55,4 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 **Others** Kayakers | All water users | Low severity of impact | Kayakers rarely pose a hazard to SUP students but they do need to be tracked near dusk as they are low to the water and easy to miss.  
 **Others** MotorBoats | All water users | Severe impact but low likelihood | The only motorboats on the loch are rescue, training and coaching boats. They follow predictable patterns. Ensure that all instructors understand these patterns. Highlight any relevant motorboat patterns to students.    
 **Others** SUP boarders | All water users | Low chance of collision | Ensure that SUPO boarders stay at least two board lengths apart at all times.
-
-
-**Environment**  |  |  |  
+**Environment** Unexpectedly poor weather  | All | Low initial severity if caught quickly. Raising severity if unresolved.  |  Instructor to maintaina constant watch on weather conditions and curtail the session before it becomes a problem. Make students aware in onshore demo that this may happen.
