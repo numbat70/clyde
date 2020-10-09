@@ -53,7 +53,7 @@ Instructors will
 The following must be adhered to:
 - The course will be delivered within 100m of shore and 250m from safe haven (Lochside path)
 - Instructors will prioritise students health, safety and welfare above all else.
-- Instructors will regularly check that students are not too cold or tired to continue. 
+- Instructors will regularly check that students are not too cold or tired to continue.
 
 
 ## After
@@ -61,8 +61,3 @@ The following must be adhered to:
 - A debrief will be held with the Students
 - Next steps to develop their skills and enjoy the sport will be outlined
 - Equipment will be recovered and cleaned in accordance with current COVID policy
-
-
-
-
-**[Read the full Lochwinnoch SOP here](/clyde/files/SOP.pdf)**

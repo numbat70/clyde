@@ -31,7 +31,7 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 **Surface** Pontoons | ALl |  Bruises and broken bones up to concussion and neck injury  |  Educate around how slippy the pontoons can be when wet and covered in bird droppings. Ban running on them. Educate about concussion hazard if standing on board within two board lengths of teh pontoons. Mandate kneeling within this distance.
 **Surface** Wooden loch siding  | All |  Bruises and broken bones up to concussion and neck injury   |  Educate around how VERY slippy the wood is along the lochside path at the car park. Mandate kneeling within two board lengths of the lochside
 **Surface** Submerged lochside path | All Water Users |  Bruises and broken bones up to concussion and neck injury  |  Educate water users that the path is often submerged an d forms a submerged trip hazard. Mandate they are kneeling if within two board lengths of the **normal** lochside. Educate as to where this is if they are unfamiliar with the loch.
-**Surface** River Calder | All Water Users |  Bruises and broken bones up to concussion and neck injury. Drowning  |  Educate around how shallow the mouth of the river calder is. Highlight that treee branches and other hazards are washed down it and may cause submerged hazards. Zone to avoid but mandate kneeling if forced to cross this area (usually to avoid strong SW winds). 
+**Surface** River Calder | All Water Users |  Bruises and broken bones up to concussion and neck injury. Drowning  |  Educate around how shallow the mouth of the river calder is. Highlight that treee branches and other hazards are washed down it and may cause submerged hazards. Zone to avoid but mandate kneeling if forced to cross this area (usually to avoid strong SW winds).
 **Hazards**  |  |  |  
 **Others**  |  |  |  
 **Environment**  |  |  |
@@ -52,6 +52,3 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 
 
 **Environment**  |  |  |  
-
-
-[Read the full risk assessment here](#)

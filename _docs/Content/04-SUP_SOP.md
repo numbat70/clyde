@@ -11,6 +11,3 @@ They will suggest
 - When we do it
 
 And all the factors that impact on these areas.
-
-
-**[Read the full Lochwinnoch SOP here](/clyde/files/SOP.pdf)**
