@@ -48,8 +48,6 @@ The following must be adhered to:
     - EAP location and Procedures
     - Demonstration of techniques that will be practiced
 
-
-
 ## During
 The following must be adhered to:
 - The course will be delivered within 100m of shore and 250m from safe haven (Lochside path)
