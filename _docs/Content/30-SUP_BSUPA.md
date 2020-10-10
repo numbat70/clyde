@@ -17,11 +17,12 @@ The following courses can be taught at the school:
 This is the course that will teach you to ride a SUP, and be safe whilst doing it.
 
 It covers:
-#### Paddling Technique
+**Paddling Technique**
 - Paddling straight
 - Standing up
 - Steering
-#### SAFETY
+
+**SAFETY**
 - Getting on the water
 - Weather & Tides
 - Hazards
