@@ -14,6 +14,7 @@ and these can be
 - Quantitative (Numbers, limits etc...)
 
 ## Risk - Generic
+
 Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 --- | --- | --- | ---
 **Hazard** Slip on Waterside environment | All | Bruises and broken bones up to concussion and neck injury | Educate participants about slip hazard and mandate suitable footwear or bare feet
@@ -37,6 +38,7 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 **Environment** Blue Green Algae | All Water Users | Potential for stomache upsets if ingested | Educate water users to limit ingestion of the water and to wash hands and face before any subsequent activities.
 
 ## Risks - Dynamic
+
 Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 --- | --- | --- | ---
 **Surface** Wind chop | All water users | Winds may raise small sharp waves (wind chop) that make it difficuklt for students to stand on their boards. This raises a falling hazard with a small potential for injury or Drowning | Ensure that Wind Chop is constantly monitored with a preference for going directly into or away from it. This removes the rolling momenbt that causes most students to fall.  
