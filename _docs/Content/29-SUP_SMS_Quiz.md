@@ -6,7 +6,7 @@ order: 29
 
 ## SMS Validation quiz
 
-Every 6 months teh quiz will be changed and all instructors will need to get a 100% score to be validated.
+Every 6 months the quiz will be changed and all instructors will need to get a 100% score to be validated.
 
 The test can be retaken until this score is reached. By this time the SMS should have been referenced several times if not fully known already.
 

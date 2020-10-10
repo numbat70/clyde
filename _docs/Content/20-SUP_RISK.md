@@ -33,6 +33,7 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 **Surface** Submerged lochside path | All Water Users |  Bruises and broken bones up to concussion and neck injury  |  Educate water users that the path is often submerged an d forms a submerged trip hazard. Mandate they are kneeling if within two board lengths of the **normal** lochside. Educate as to where this is if they are unfamiliar with the loch.
 **Surface** River Calder | All Water Users |  Bruises and broken bones up to concussion and neck injury. Drowning  |  Educate around how shallow the mouth of the river calder is. Highlight that treee branches and other hazards are washed down it and may cause submerged hazards. Zone to avoid but mandate kneeling if forced to cross this area (usually to avoid strong SW winds).
 **Others** Rowers, Sailors, Kayakers, Powerboats and other SUP users | All water users | Low likelihood of collission |  These users normally follow preictable patterns and can be avoided with simple zoning and awareness given in on shore briefing (See Dynamic Risks)
+  |  |  |  
 
 ## Risks - Dynamic
 
@@ -47,6 +48,7 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 **Others** MotorBoats | All water users | Severe impact but low likelihood | The only motorboats on the loch are rescue, training and coaching boats. They follow predictable patterns. Ensure that all instructors understand these patterns. Highlight any relevant motorboat patterns to students.    
 **Others** SUP boarders | All water users | Low chance of collision | Ensure that SUPO boarders stay at least two board lengths apart at all times.
 **Environment** Unexpectedly poor weather  | All | Low initial severity if caught quickly. Raising severity if unresolved.  |  Instructor to maintaina constant watch on weather conditions and curtail the session before it becomes a problem. Make students aware in onshore demo that this may happen.
+  |  |  |  
 
 
 **[Continue to EAP](/clyde/Content/21-SUP_EAP/)**
