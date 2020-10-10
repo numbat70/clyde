@@ -4,12 +4,9 @@ category: SUP Safety Management System
 order: 28
 ---
 
-## SMS Validation quiz
+## Covid policy
 
-Every 6 months the quiz will be changed and all instructors will need to get a 100% score to be validated.
+**Coming soon**
 
-The test can be retaken until this score is reached. By this time the SMS should have been referenced several times if not fully known already.
 
-**The quiz scores are held alongside the Incident, Kit and Learning Logs**
-
-Use the [SMS Quiz](https://forms.gle/1Sieo5y6GY4HtBd89) to validate every 6 months
+**[Continue to Validation Quiz](/clyde/Content/29-SUP_SMS_Quiz/)**

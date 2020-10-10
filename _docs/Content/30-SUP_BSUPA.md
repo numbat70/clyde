@@ -55,6 +55,9 @@ And by the end of it you should:
 ### Ready to Race
 Our course designed to get you started with racing or improve upon your current performance
 
+The course is **‘skill’ rather than 'fitness'** focused and focuses on the main skills and scenarios that will comes up in a wide variety of races.
+
+- 4 hours of race theory, technique and practice over two sessions.
 - basic race theory
 - racing kit
 - simulating the key SUP race elements
