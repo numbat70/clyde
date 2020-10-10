@@ -1,6 +1,6 @@
 ---
-title: Logs
-category: SUP Safety Management System Quiz
+title: SMS - Quiz
+category: SUP Safety Management System
 order: 22
 ---
 
