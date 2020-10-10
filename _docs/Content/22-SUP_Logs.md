@@ -1,7 +1,7 @@
 ---
 title: Logs
 category: SUP Safety Management System
-order: 21
+order: 22
 ---
 
 We keep 3 Logs:

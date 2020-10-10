@@ -1,7 +1,7 @@
 ---
 title: SMS - Quiz
 category: SUP Safety Management System
-order: 22
+order: 29
 ---
 
 ## SMS Validation quiz
