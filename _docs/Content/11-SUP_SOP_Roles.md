@@ -13,3 +13,5 @@ Senior instructor | Martin Kerr| 07905 161 448 | Email
 Instructor | Name | Tel | Email
 Instructor | Name | Tel | Email
 Covid Officer | Name | Tel | Email
+
+**[Continue to Definitions](/clyde/Content/12-SUP_SOP_Definitions/)**

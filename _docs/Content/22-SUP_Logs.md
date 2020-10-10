@@ -40,3 +40,5 @@ This is for:
 - Ideas or suggestions
 
 Use the [Learning Form](https://forms.gle/XBFcrvbguvrJfS7a7) to log these
+
+**[Continue to Validation Quiz](/clyde/Content/29-SUP_SMS_Quiz/)**

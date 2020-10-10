@@ -48,3 +48,6 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 **Others** MotorBoats | All water users | Severe impact but low likelihood | The only motorboats on the loch are rescue, training and coaching boats. They follow predictable patterns. Ensure that all instructors understand these patterns. Highlight any relevant motorboat patterns to students.    
 **Others** SUP boarders | All water users | Low chance of collision | Ensure that SUPO boarders stay at least two board lengths apart at all times.
 **Environment** Unexpectedly poor weather  | All | Low initial severity if caught quickly. Raising severity if unresolved.  |  Instructor to maintaina constant watch on weather conditions and curtail the session before it becomes a problem. Make students aware in onshore demo that this may happen.
+
+
+**[Continue to EAP](/clyde/Content/21-SUP_EAP/)**
