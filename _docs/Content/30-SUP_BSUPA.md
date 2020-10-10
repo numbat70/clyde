@@ -14,7 +14,19 @@ order: 1
 The following courses can be taught at the school:
 
 ### Ready to Ride
--
+This is the course that will teach you to ride a SUP, and be safe whilst doing it.
+
+It covers:
+#### Paddling Technique
+- Paddling straight
+- Standing up
+- Steering
+#### SAFETY
+- Getting on the water
+- Weather & Tides
+- Hazards
+- Self Rescue
+- Trip planning
 
 ### Ready to Tour
 -
