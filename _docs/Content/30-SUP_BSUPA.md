@@ -11,8 +11,6 @@ order: 1
 - [https://bsupa.azolve.com/Account.mvc/Login?ReturnUrl=%2f](https://bsupa.azolve.com/Account.mvc/Login?ReturnUrl=%2f)
 
 ## BSUPA Courses
--
-
 ### Ready to Ride
 -
 
