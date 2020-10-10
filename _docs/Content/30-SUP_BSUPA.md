@@ -53,7 +53,18 @@ And by the end of it you should:
 - Have understanding of personal gear you might take with you when touring. Have planned completed and experienced a tour.
 
 ### Ready to Race
--
+Our course designed to get you started with racing or improve upon your current performance
 
-### Born To Ride
--
+- basic race theory
+- racing kit
+- simulating the key SUP race elements
+
+And by the end of it you should:
+- Understand the different race board classes
+- Have knowledge of different racing disciplines and how to get involved
+- Be able to select the best race equipment for themselves
+- Can demonstrate an improved efficient paddle stroke
+- Can Draft
+- Can perform a variety of turns around buoys using good judgement
+- Have experienced a variety of start options
+- Have understanding of personal gear you might wear for racing and hydration options.
