@@ -15,13 +15,13 @@ order: 4
 It is where all the relevant safety related documents, procedures and knowledge are collated, taught, shared and used.
 It includes these documents
 1. [SOP (Standard Operating Procedures)](https://numbat70.github.io/clyde/Content/04-SUP_SOP)
-2.  [EAP (Emergency Action Plan)](https://numbat70.github.io/clyde/Content/03-SUP_EAP)
-3.  [Risk Assessment](https://numbat70.github.io/clyde/Content/02-SUP_RISK)
-4.  Logs & Registers
+2.  [EAP (Emergency Action Plan)](https://numbat70.github.io/clyde/Content/21-SUP_EAP)
+3.  [Risk Assessment](https://numbat70.github.io/clyde/Content/20-SUP_RISK)
+4.  [Logs & Registers](https://numbat70.github.io/clyde/Content/22-SUP_Logs)
 5.  Covid Policy & Procedure
 6.  Anything else that helps
 
-
+**[Read the full Lochwinnoch EAP here](/clyde/Content/EAP.pdf)**
 
 
 
