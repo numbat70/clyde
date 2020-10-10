@@ -14,7 +14,6 @@ and these can be
 - Quantitative (Numbers, limits etc...)
 
 ## Risk - Generic
-
 Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 --- | --- | --- | ---
 **Hazard** Slip on Waterside environment | All | Bruises and broken bones up to concussion and neck injury | Educate participants about slip hazard and mandate suitable footwear or bare feet
