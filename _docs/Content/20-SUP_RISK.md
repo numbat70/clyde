@@ -33,11 +33,10 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 **Surface** Submerged lochside path | All Water Users |  Bruises and broken bones up to concussion and neck injury  |  Educate water users that the path is often submerged an d forms a submerged trip hazard. Mandate they are kneeling if within two board lengths of the **normal** lochside. Educate as to where this is if they are unfamiliar with the loch.
 **Surface** River Calder | All Water Users |  Bruises and broken bones up to concussion and neck injury. Drowning  |  Educate around how shallow the mouth of the river calder is. Highlight that treee branches and other hazards are washed down it and may cause submerged hazards. Zone to avoid but mandate kneeling if forced to cross this area (usually to avoid strong SW winds).
 **Others** Rowers, Sailors, Kayakers, Powerboats and other SUP users | All water users | Low likelihood of collission |  These users normally follow preictable patterns and can be avoided with simple zoning and awareness given in on shore briefing (See Dynamic Risks)
-  |  |  |  
+**Environment** Fog can lie heavily over the lochs water surface. It may feel reasonable to enter the water but upon losing site of shore it is easy to become disoriented. | All water users | Infrequent an more prevalent in early morning sessions |  Do not run sessions when there is fog on the loch. Wait for it to clear. Educate that the rowing lane markers can be used as reference points if needed.
+**Environment** Blue Green Algae | All Water Users | Potential for stomache upsets if ingested | Educate water users to limit ingestion of the water and to wash hands and face before any subsequent activities.
 
 ## Risks - Dynamic
-
-
 Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 --- | --- | --- | ---
 **Surface** Wind chop | All water users | Winds may raise small sharp waves (wind chop) that make it difficuklt for students to stand on their boards. This raises a falling hazard with a small potential for injury or Drowning | Ensure that Wind Chop is constantly monitored with a preference for going directly into or away from it. This removes the rolling momenbt that causes most students to fall.  
