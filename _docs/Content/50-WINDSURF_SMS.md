@@ -4,4 +4,4 @@ category: Windsurf
 order: 50
 ---
 
-# Coming Soon :-)
+# Coming Soon
