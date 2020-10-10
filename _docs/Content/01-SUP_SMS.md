@@ -21,9 +21,6 @@ It includes these documents
 5.  Covid Policy & Procedure
 6.  Anything else that helps
 
-**[Read the full Lochwinnoch EAP here](/clyde/Content/EAP.pdf)**
-
-
 
 ## SOP (Standard Operating Procedures)
 
