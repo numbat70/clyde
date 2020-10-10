@@ -27,7 +27,7 @@ This is used to:
 Kit that the club owns or users
 
 
-Use the [Kit Reporting Form](#) to log:
+Use the [Kit Reporting Form](https://forms.gle/ViqAmfApf2xAuQPb9) to log:
 1. New Kit
 2. Damage to Kit
 3. Repairs to Kit
