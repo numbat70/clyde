@@ -23,7 +23,7 @@ It includes these documents
 
 
 ## SOP (Standard Operating Procedures)
-These are the procedures that are followed by all Instructors that will ensure the safety of all participants. 
+These are the procedures that are followed by all Instructors that will ensure the safety of all participants.
 
 ## EAP (Emergency Action Plan)
 This is a functional document that defines what to do in case of an emergency, and also the relevant information, that will help you in these situations.
@@ -49,3 +49,6 @@ We keep 3 Logs
 
 ## Covid Policy
 This policy is a constantly evolving document. Check it regularly for updates.
+
+
+**[Continue to Standard Operating Procedures](/clyde/Content/04-SUP_SOP/)**
