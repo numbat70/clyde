@@ -1,4 +1,3 @@
-
 ---
 title: SOP - Definitions
 category: SUP Safety Management System
