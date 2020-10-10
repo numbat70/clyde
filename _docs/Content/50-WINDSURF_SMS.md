@@ -1,7 +1,7 @@
 ---
 title: Safety Management System
 category: Windsurf
-order: 101
+order: 50
 ---
 
 ## Why we have a Safety Management System (SMS)

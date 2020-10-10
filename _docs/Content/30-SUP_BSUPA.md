@@ -1,7 +1,7 @@
 ---
 title: BSUPA
 category: SUP General
-order: 99
+order: 1
 ---
 
 ## BSUPA Website

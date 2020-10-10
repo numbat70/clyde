@@ -1,7 +1,7 @@
 ---
 title: Safety Management System
 category: SUP Safety Management System
-order: 1
+order: 4
 ---
 
 ## Why we have a Safety Management System (SMS)
