@@ -14,7 +14,7 @@ Date: 30th Sept 2020
 ### Surface
 - North Easterly (NE) winds can create meaningful Wind Chop waves that will cause beginners difficulty.
 - South Westerly (SW) winds can create smaller Wind Chop waves that can usually be Knee Paddled through quite quickly to find a sheltered bit of water.
-The physical surface of the Loch contains numerous
+- The physical surface of the Loch contains numerous
    - Marker Buoys
    - Sunken Logs/Trees
    - Fishing Lines, lures and hooks
@@ -22,7 +22,13 @@ The physical surface of the Loch contains numerous
    - Shallow areas ( near shore and the River Calder's mouth)
    - Other floating debris that may have been washed into the loch or abandoned by other water users
 
-### Weather
+### Fog
+- Fog is common on colder mornings and usually lifts by mid mornimng.
+- It is *prohibited* to go on the water when it is foggy.
+   - It raises the collision risk to an unacceptable level
+   - It raises the risk of becoming disoriented and lost. This in turn can lead to exhaustion or effects of the cold.  
+
+### Wind
 - Lochwinnoch is not tidal but is open to wind.
 - Winds are usually SW or NE which either blow UP or DOWN the length of the loch.
 - We should operating ideally at 8kts or less with a hard maximum of 15kts.
