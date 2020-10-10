@@ -17,7 +17,7 @@ It includes these documents
 1. [SOP (Standard Operating Procedures)](https://numbat70.github.io/clyde/Content/04-SUP_SOP)
 2.  [EAP (Emergency Action Plan)](https://numbat70.github.io/clyde/Content/21-SUP_EAP)
 3.  [Risk Assessment](https://numbat70.github.io/clyde/Content/20-SUP_RISK)
-4.  [Logs & Registers](https://numbat70.github.io/clyde/Content/22-SUP_Logs)
+4.  [Logs & Registers](https://numbat70.github.io/clyde/Content/22-SUP_LOGS)
 5.  Covid Policy & Procedure
 6.  Anything else that helps
 
