@@ -17,7 +17,7 @@ This is for:
 - Minor Incidents (Minor cuts or bruises)
 - Near Misses (Any near misses, on or off the water)
 
-Use the [Incident Reporting Form](#) to log any of these
+Use the [Incident Reporting Form](https://forms.gle/xBZp5gB5kuuhig4YA) to log any of these
 
 # Kit Log
 This is used to:
@@ -39,4 +39,4 @@ This is for:
 - Learning that has come from experiences
 - Ideas or suggestions
 
-Use the [Learning Form](#) to log these
+Use the [Learning Form](https://forms.gle/XBFcrvbguvrJfS7a7) to log these
