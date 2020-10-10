@@ -1,7 +1,7 @@
 ---
 title: EAP (Emergency Action Plan)
 category: SUP Safety Management System
-order: 30
+order: 21
 ---
 Emergency Action Plans are site specific and contain necessary local knowledge to effect management of any situations that arise during activities.
 
