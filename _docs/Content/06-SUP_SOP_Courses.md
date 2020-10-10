@@ -32,9 +32,10 @@ The following must be adhered to:
   - SUP board
   - Leash
 
-Instructors will
+**Instructors will**
+  - Ensure that they are carrying a copy of students emergency contacts
   - Carry EAP
-  - Instructor students on EAP procedures and where it is stored in case of Instructor Incapacitation (II)
+  - Instruct students on EAP procedures and where it is stored in case of Instructor Incapacitation (II)
   - Carry mobile phone and tell Students how to use it in "II" situation
   - Carry first aid kit (relevant to site)
   - Carry water and sugar source
@@ -45,7 +46,7 @@ Instructors will
   - Provide an overview of:
     - The session
     - EAP location and Procedures
-    - demonstration of techniques that will be practiced
+    - Demonstration of techniques that will be practiced
 
 
 
