@@ -3,7 +3,6 @@ title: Logs
 category: SUP Safety Management System
 order: 22
 ---
-
 We keep 3 Logs:
 1. Incident Log
 2. Kit Log
@@ -26,13 +25,11 @@ This is used to:
 - Maintain
 Kit that the club owns or users
 
-
 Use the [Kit Reporting Form](https://forms.gle/ViqAmfApf2xAuQPb9) to log:
 1. New Kit
 2. Damage to Kit
 3. Repairs to Kit
 4. Disposal of Kit
-
 
 ## Incident Log
 This is for:
