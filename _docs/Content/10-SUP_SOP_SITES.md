@@ -35,3 +35,5 @@ Easterly or North Easterly winds blow directly onto the shore that we launch fro
 
 Operational Wind Limits by Wind Direction:
 ![Wind Limits for SUP](https://numbat70.github.io/clyde/Content/SUPwind.png "Wind Limits for SUP")
+
+**[Continue to Roles](/clyde/Content/11-SUP_SOP_Roles/)**
