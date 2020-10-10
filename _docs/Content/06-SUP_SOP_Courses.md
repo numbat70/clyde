@@ -62,3 +62,5 @@ The following must be adhered to:
 - A debrief will be held with the Students
 - Next steps to develop their skills and enjoy the sport will be outlined
 - Equipment will be recovered and cleaned in accordance with current COVID policy
+
+**[Continue to Sites](/clyde/Content/10-SUP_SOP_Sites/)**
