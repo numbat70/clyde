@@ -8,7 +8,7 @@ tr {
 }
 
 tr:nth-child(even) {
-	background: #bfbfbf;
+	background: #e8e8e8;
 }
 
 td, th {
@@ -18,4 +18,5 @@ td, th {
 
 th {
 	padding-bottom: 4px;
+	background: #bfbfbf;
 }
