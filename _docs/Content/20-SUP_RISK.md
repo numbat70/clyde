@@ -85,7 +85,7 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 **Others** <br>Rowers |  All water users| High speed collision |  Educate around the high speed that rowers travel. Highlight that they are looking backwards and have very limited steering ability. Zone to avoid rowing course or training lanes where possible. If forced to cross, then do so in a managed group, that is under close supervision by lead instructor.
 **Others** <br>Kayakers | All water users | Low severity of impact | Kayakers rarely pose a hazard to SUP students but they do need to be tracked near dusk as they are low to the water and easy to miss.  
 **Others** <br>MotorBoats | All water users | Severe impact but low likelihood | The only motorboats on the loch are rescue, training and coaching boats. They follow predictable patterns. Ensure that all instructors understand these patterns. Highlight any relevant motorboat patterns to students.    
-**Others** <br>SUP boarders | All water users | Low chance of collision | Ensure that SUPO boarders stay at least two board lengths apart at all times.
+**Others** <br>SUP boarders | All water users | Low chance of collision | Ensure that SUP boarders stay at least two board lengths apart at all times.
 **Environment** <br>Unexpectedly poor weather  | All | Low initial severity if caught quickly. Raising severity if unresolved.  |  Instructor to maintaina constant watch on weather conditions and curtail the session before it becomes a problem. Make students aware in onshore demo that this may happen.
   |  |  |  
 
