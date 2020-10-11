@@ -11,7 +11,7 @@ order: 20
 
 ## Levels of Risk
 
-![Risk Matrix](/content/risks.png)
+![Risk Matrix](https://numbat70.github.io/clyde/content/risks.png)
 
 1. Trivial – No action is required and no documentary records need be kept
 2. Tolerable – No additional controls are required. Monitoring required ensuring controls are maintained
