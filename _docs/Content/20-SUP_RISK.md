@@ -9,10 +9,6 @@ order: 20
 - Site Specific (specific to the location)
 - Dynamic (need to be assessed on the day and continuously during the activity)
 
-and these can be
-- Qualitative (Enough, Too much etc...)
-- Quantitative (Numbers, limits etc...)
-
 ## Levels of Risk
 
 ![Risk Matrix](/content/risks.png)
