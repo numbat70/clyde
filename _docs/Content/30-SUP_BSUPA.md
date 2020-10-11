@@ -10,10 +10,10 @@ order: 1
 ## BSUPA Membership site:
 - [https://bsupa.azolve.com/Account.mvc/Login?ReturnUrl=%2f](https://bsupa.azolve.com/Account.mvc/Login?ReturnUrl=%2f)
 
-## BSUPA Courses
-The following courses can be taught at the school:
 
-### Ready to Ride
+**The following courses can be taught at the school**
+
+## Ready to Ride
 This is the course that will teach you to ride a SUP, and be safe whilst doing it.
 
 It covers:
@@ -30,7 +30,7 @@ It covers:
 - Self Rescue
 - Trip planning
 
-### Ready to Tour
+## Ready to Tour
 A 2 hour introduction to flat water touring.
 It covers:
 - improving paddle technique
@@ -53,7 +53,7 @@ And by the end of it you should:
 - Have knowledge of how to plan a trip taking into account weather, flow, tide, access, 3rd parties, exit options,
 - Have understanding of personal gear you might take with you when touring. Have planned completed and experienced a tour.
 
-### Ready to Race
+## Ready to Race
 Our course designed to get you started with racing or improve upon your current performance
 
 The course is **‘skill’ rather than 'fitness'** focused and focuses on the main skills and scenarios that will comes up in a wide variety of races.
