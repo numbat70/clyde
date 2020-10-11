@@ -50,7 +50,7 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
   |  |  |  
 **Hazards** <br>Risk of petrol contamination  | All | **Tolerable**<br>  |  Petrol to be stored in fuel specific containers
 **Hazards** <br>Risk of petrol fire/explosion  |All  | **Tolerable**<br>  |  BOAT operators to be RYA level 2 powerboat qualified as a minimum<br> Appropriate fire extinguisher to be available<br>Storage area labelled with appropriate hazard signage
-**Hazards** <br>Risk of pollution  | All | **Tolerable**<br>  |  Pollution control measures to be taken when disposing of engine oil. (Collecteed and taken to refuse centre that accepts oil)
+**Hazards** <br>Risk of pollution  | All | **Tolerable**<br>  |  Pollution control measures to be taken when disposing of engine oil. (Collected and taken to refuse centre that accepts oil)
 
 
 
