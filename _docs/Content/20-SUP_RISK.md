@@ -38,10 +38,10 @@ Risk of running into person in the water  | All | Tolerable | Aim to have a mini
 Risk of collision with other water craft  | All | Tolerable | Aim to have a minimum crew of 2 in the boat when providing rescue cover. Assess on annual basis ‘qualified safety boat’ operators and offer update refresher courses if needed
 Risk of Pollution by petrol/oil spillage  | All | Tolerable |  Planned maintenance routine implemented for the boat and engine. Engine and fuel stored in a secure store with spillage berm.
   |  |  |  
-Personal impact from kit / rig  |  |  |  
-Risk of disease from animal excrement  |  |  |  
-Damage to property  |  |  |  
-Broken glass, cans or other sharp objects  |  |  |  
+Personal impact from kit / rig  | All | **Tolerable**<br> |  Safety briefing to pupils at start of course. <br> Trolleys used for moving boards. <br>Rigs to be secured to boards or moved to safe storage area when not in use, never left unattended in strong winds. <br> Boards should be left with fins down in public areas so as not to present a hazard.<br> In blustery, squally conditions the number of boards and sails on the lochside should be minimised.
+Risk of disease from animal excrement  | All | **Tolerable**<br> |  Training and rigging areas clearly defined to pupils and instructors. <br>Training and rigging areas checked and cleaned of excrement and sharp objects before each course
+Damage to property  | All | **Tolerable**<br> |  
+Broken glass, cans or other sharp objects  | All | **Tolerable**<br> |  Training and rigging areas clearly defined to pupils and instructors. <br>Training and rigging areas checked and cleaned of excrement and sharp objects before each course
   |  |  |  
   |  |  |  
   |  |  |  
