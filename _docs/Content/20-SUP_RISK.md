@@ -30,6 +30,7 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 **Hazard** Slips, Trips & Falls on route to water  | All | Tolerable. Bruises and broken bones up to concussion and neck injury |  Educate users on Trip Hazards as well as the safe way to carry SUP and Paddle. Highlight the length of SUP's and how to avoid hitting things when navigating with them on land.
 **Hazard** Equipment failure  | All | Trivial. Low initial severity if caught quickly. Raising severity if unresolved.  | All Kit checked prior to session (SOP Procedure) with a spare paddle carried by Instructor to meet most common equipment failure.
 **Hazard** Covid infection  | All | Tolerable. Low risk if managed |  Ensure that all particpants understand the Covid policy and Instructors and Covid Officer implement the Covid policy
+  |  |  |  
 Risk of boat being operated by unqualified persons  | All | Trivial |  Only responsible persons allowed access to boat. Only holders of RYA powerboat level 2 to operate safety boat
 Risk of person falling out of boat when underway  | All | Tolerable |  Crew to be briefed in safety procedures before boarding. Crew to wear suitable clothing and PFD.
 Risk of boat running out of control if cox’n falls overboard  | All | Trivial |  Cox’n always to use ‘Kill Cord’
@@ -37,16 +38,26 @@ Risk of running into person in the water  | All | Tolerable | Aim to have a mini
 Risk of collision with other water craft  | All | Tolerable | Aim to have a minimum crew of 2 in the boat when providing rescue cover. Assess on annual basis ‘qualified safety boat’ operators and offer update refresher courses if needed
 Risk of Pollution by petrol/oil spillage  | All | Tolerable |  Planned maintenance routine implemented for the boat and engine. Engine and fuel stored in a secure store with spillage berm.
   |  |  |  
+Personal impact from kit / rig  |  |  |  
+Risk of disease from animal excrement  |  |  |  
+Damage to property  |  |  |  
+Broken glass, cans or other sharp objects  |  |  |  
   |  |  |  
   |  |  |  
   |  |  |  
   |  |  |  
   |  |  |  
   |  |  |  
-  |  |  |  
-  |  |  |  
-  |  |  |  
-  |  |  |  
+
+  1.		Risk of drowning
+  2.		Risk of impact injury
+  3.		Risk of water borne diseases
+  4.		Risk of Hyperthermia /Heat exhaustion
+
+
+1.   Risk of petrol contamination
+2.   Risk of petrol fire/explosion
+3.   Risk of pollution
 
 
 
