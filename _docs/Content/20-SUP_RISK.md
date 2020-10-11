@@ -13,6 +13,18 @@ and these can be
 - Qualitative (Enough, Too much etc...)
 - Quantitative (Numbers, limits etc...)
 
+## Levels of Risk
+
+![Risk Matrix](/content/risks.png)
+
+1. Trivial – No action is required and no documentary records need be kept
+2. Tolerable – No additional controls are required. Monitoring required ensuring controls are maintained
+3. Moderate – Efforts shall be maintained to reduce risk
+4. Substantial – Work shall not be started until risk is reduced. Further controls shall be introduced and new assessment conducted
+5. Intolerable – Work shall not be carried out until the risk is reduced or eliminated and new assessment conducted
+
+
+
 ## Risk - Generic
 
 Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
