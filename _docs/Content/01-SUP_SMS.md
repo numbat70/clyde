@@ -29,7 +29,6 @@ These are the procedures that are followed by all Instructors that will ensure t
 This is a functional document that defines what to do in case of an emergency, and also the relevant information, that will help you in these situations.
 
 - EAP (Lochwinnoch - SUP)
-- EAP (Loch Lomond Luss - SUP) (TBC)
 
 Recent updates to the EAP's are the use of ["What 3 Words"](https://what3words.com) location indicators.
 
