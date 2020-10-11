@@ -48,9 +48,9 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 **Hazards** <br>Risk of water borne diseases  | All | **Tolerable**<br>  |  Follow local guidelines for water quality and do not sail in or swallow blue green foam <br> Shower after immersion in water <br> *Note* This may be paused due to Covid restrictions. Advise showering on return home and before eating.
 **Hazards** <br>Risk of Hyperthermia /Heat exhaustion  | All | **Tolerable**<br>  |  Wear suitable clothing and footwear for conditions. Club provides Westuits and asks participants to bring suitable footwear.
   |  |  |  
-**Hazards** <br>Risk of petrol contamination  | All | **Tolerable**<br>  |  
-**Hazards** <br>Risk of petrol fire/explosion  |All  | **Tolerable**<br>  |  
-**Hazards** <br>Risk of pollution  | All | **Tolerable**<br>  |  
+**Hazards** <br>Risk of petrol contamination  | All | **Tolerable**<br>  |  Petrol to be stored in fuel specific containers
+**Hazards** <br>Risk of petrol fire/explosion  |All  | **Tolerable**<br>  |  BOAT operators to be RYA level 2 powerboat qualified as a minimum<br> Appropriate fire extinguisher to be available<br>Storage area labelled with appropriate hazard signage
+**Hazards** <br>Risk of pollution  | All | **Tolerable**<br>  |  Pollution control measures to be taken when disposing of engine oil. (Collecteed and taken to refuse centre that accepts oil)
 
 
 
