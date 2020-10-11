@@ -36,7 +36,7 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 **Hazards** <br>Risk of boat running out of control if cox’n falls overboard  | All | **Trivial**<br> |  Cox’n always to use ‘Kill Cord’
 **Others** <br>Risk of running into person in the water  | All | **Tolerable**<br> | Aim to have a minimum crew of 2 in the boat when providing rescue cover. Assess on annual basis ‘qualified safety boat’ operators and offer update refresher courses if needed
 **Others** <br>Risk of collision with other water craft  | All | **Tolerable**<br> | Aim to have a minimum crew of 2 in the boat when providing rescue cover. Assess on annual basis ‘qualified safety boat’ operators and offer update refresher courses if needed
-**Hazards** <br>Risk of Pollution by petrol/oil spillage  | All | **Tolerable**<br> |  Planned maintenance routine implemented for the boat and engine. Engine and fuel stored in a secure store with spillage berm.
+**Hazards** <br>Risk of Pollution by petrol/oil spillage  from boat | All | **Tolerable**<br> |  Planned maintenance routine implemented for the boat and engine. Engine and fuel stored in a secure store with spillage berm.
   |  |  |  
 **Hazards** <br>Personal impact from kit / rig  | All | **Tolerable**<br> |  Safety briefing to pupils at start of course. <br> Trolleys used for moving boards. <br>Rigs to be secured to boards or moved to safe storage area when not in use, never left unattended in strong winds. <br> Boards should be left with fins down in public areas so as not to present a hazard.<br> In blustery, squally conditions the number of boards and sails on the lochside should be minimised.
 **Hazards** <br>Risk of disease from animal excrement  | All | **Tolerable**<br> |  Training and rigging areas clearly defined to pupils and instructors. <br>Training and rigging areas checked and cleaned of excrement and sharp objects before each course
@@ -48,7 +48,7 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 **Hazards** <br>Risk of water borne diseases  | All | **Tolerable**<br>  |  Follow local guidelines for water quality and do not sail in or swallow blue green foam <br> Shower after immersion in water <br> *Note* This may be paused due to Covid restrictions. Advise showering on return home and before eating.
 **Hazards** <br>Risk of Hyperthermia /Heat exhaustion  | All | **Tolerable**<br>  |  Wear suitable clothing and footwear for conditions. Club provides Westuits and asks participants to bring suitable footwear.
   |  |  |  
-**Hazards** <br>Risk of petrol contamination  | All | **Tolerable**<br>  |  Petrol to be stored in fuel specific containers
+**Hazards** <br>Risk of petrol contamination on land | All | **Tolerable**<br>  |  Petrol to be stored in fuel specific containers
 **Hazards** <br>Risk of petrol fire/explosion  |All  | **Tolerable**<br>  |  BOAT operators to be RYA level 2 powerboat qualified as a minimum<br> Appropriate fire extinguisher to be available<br>Storage area labelled with appropriate hazard signage
 **Hazards** <br>Risk of pollution  | All | **Tolerable**<br>  |  Pollution control measures to be taken when disposing of engine oil. (Collected and taken to refuse centre that accepts oil)
 
