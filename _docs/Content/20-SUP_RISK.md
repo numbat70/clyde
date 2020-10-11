@@ -48,16 +48,16 @@ Broken glass, cans or other sharp objects  |  |  |
   |  |  |  
   |  |  |  
   |  |  |  
+Risk of drowning  |  |  |  
+Risk of impact injury  |  |  |  
+Risk of water borne diseases  |  |  |  
+Risk of Hyperthermia /Heat exhaustion  |  |  |  
+  |  |  |  
+  |  |  |  
 
-  1.		Risk of drowning
-  2.		Risk of impact injury
-  3.		Risk of water borne diseases
-  4.		Risk of Hyperthermia /Heat exhaustion
-
-
-1.   Risk of petrol contamination
-2.   Risk of petrol fire/explosion
-3.   Risk of pollution
+Risk of petrol contamination  |  |  |  
+Risk of petrol fire/explosion  |  |  |  
+Risk of pollution  |  |  |  
 
 
 
