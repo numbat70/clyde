@@ -96,5 +96,4 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 **Environment** <br>Unexpectedly poor weather  | All | Low initial severity if caught quickly. Raising severity if unresolved.  |  Instructor to maintaina constant watch on weather conditions and curtail the session before it becomes a problem. Make students aware in onshore demo that this may happen.
   |  |  |  
 
-
 **[Continue to EAP](/clyde/Content/21-SUP_EAP/)**
