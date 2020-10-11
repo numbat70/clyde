@@ -26,31 +26,31 @@ order: 20
 
 Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 --- | --- | --- | ---
-**Hazard** <br>Slip on Waterside environment | All | Tolerable. Bruises and broken bones up to concussion and neck injury | Educate participants about slip hazard and mandate suitable footwear or bare feet
-**Hazard** <br>Slips, Trips & Falls on route to water  | All | Tolerable. Bruises and broken bones up to concussion and neck injury |  Educate users on Trip Hazards as well as the safe way to carry SUP and Paddle. Highlight the length of SUP's and how to avoid hitting things when navigating with them on land.
-**Hazard** <br>Equipment failure  | All | Trivial. Low initial severity if caught quickly. Raising severity if unresolved.  | All Kit checked prior to session (SOP Procedure) with a spare paddle carried by Instructor to meet most common equipment failure.
-**Hazard** <br>Covid infection  | All | Tolerable. Low risk if managed |  Ensure that all particpants understand the Covid policy and Instructors and Covid Officer implement the Covid policy
+**Hazard** <br>Slip on Waterside environment | All | **Tolerable**. Bruises and broken bones up to concussion and neck injury | Educate participants about slip hazard and mandate suitable footwear or bare feet
+**Hazard** <br>Slips, Trips & Falls on route to water  | All | **Tolerable**. Bruises and broken bones up to concussion and neck injury |  Educate users on Trip Hazards as well as the safe way to carry SUP and Paddle. Highlight the length of SUP's and how to avoid hitting things when navigating with them on land.
+**Hazard** <br>Equipment failure  | All | **Trivial**. Low initial severity if caught quickly. Raising severity if unresolved.  | All Kit checked prior to session (SOP Procedure) with a spare paddle carried by Instructor to meet most common equipment failure.
+**Hazard** <br>Covid infection  | All | **Tolerable**. Low risk if managed |  Ensure that all particpants understand the Covid policy and Instructors and Covid Officer implement the Covid policy
   |  |  |  
-**Hazards** <br>Risk of boat being operated by unqualified persons  | All | Trivial |  Only responsible persons allowed access to boat. Only holders of RYA powerboat level 2 to operate safety boat
-**Hazards** <br>Risk of person falling out of boat when underway  | All | Tolerable |  Crew to be briefed in safety procedures before boarding. Crew to wear suitable clothing and PFD.
-**Hazards** <br>Risk of boat running out of control if cox’n falls overboard  | All | Trivial |  Cox’n always to use ‘Kill Cord’
-**Others** <br>Risk of running into person in the water  | All | Tolerable | Aim to have a minimum crew of 2 in the boat when providing rescue cover. Assess on annual basis ‘qualified safety boat’ operators and offer update refresher courses if needed
-**Others** <br>Risk of collision with other water craft  | All | Tolerable | Aim to have a minimum crew of 2 in the boat when providing rescue cover. Assess on annual basis ‘qualified safety boat’ operators and offer update refresher courses if needed
-**Hazards** <br>Risk of Pollution by petrol/oil spillage  | All | Tolerable |  Planned maintenance routine implemented for the boat and engine. Engine and fuel stored in a secure store with spillage berm.
+**Hazards** <br>Risk of boat being operated by unqualified persons  | All | **Trivial** |  Only responsible persons allowed access to boat. Only holders of RYA powerboat level 2 to operate safety boat
+**Hazards** <br>Risk of person falling out of boat when underway  | All | **Tolerable** |  Crew to be briefed in safety procedures before boarding. Crew to wear suitable clothing and PFD.
+**Hazards** <br>Risk of boat running out of control if cox’n falls overboard  | All | **Trivial** |  Cox’n always to use ‘Kill Cord’
+**Others** <br>Risk of running into person in the water  | All | **Tolerable** | Aim to have a minimum crew of 2 in the boat when providing rescue cover. Assess on annual basis ‘qualified safety boat’ operators and offer update refresher courses if needed
+**Others** <br>Risk of collision with other water craft  | All | **Tolerable** | Aim to have a minimum crew of 2 in the boat when providing rescue cover. Assess on annual basis ‘qualified safety boat’ operators and offer update refresher courses if needed
+**Hazards** <br>Risk of Pollution by petrol/oil spillage  | All | **Tolerable** |  Planned maintenance routine implemented for the boat and engine. Engine and fuel stored in a secure store with spillage berm.
   |  |  |  
 **Hazards** <br>Personal impact from kit / rig  | All | **Tolerable**<br> |  Safety briefing to pupils at start of course. <br> Trolleys used for moving boards. <br>Rigs to be secured to boards or moved to safe storage area when not in use, never left unattended in strong winds. <br> Boards should be left with fins down in public areas so as not to present a hazard.<br> In blustery, squally conditions the number of boards and sails on the lochside should be minimised.
 **Hazards** <br>Risk of disease from animal excrement  | All | **Tolerable**<br> |  Training and rigging areas clearly defined to pupils and instructors. <br>Training and rigging areas checked and cleaned of excrement and sharp objects before each course
 **Hazards** <br>Damage to property  | All | **Tolerable**<br> |  
 **Surface** <br>Broken glass, cans or other sharp objects  | All | **Tolerable**<br> |  Training and rigging areas clearly defined to pupils and instructors. <br>Training and rigging areas checked and cleaned of excrement and sharp objects before each course
   |  |  |  
-**Hazards** <br>Risk of drowning  | All |  |  
-**Hazards** <br>Risk of impact injury  | All |  |  
-**Hazards** <br>Risk of water borne diseases  | All |  |  
-**Hazards** <br>Risk of Hyperthermia /Heat exhaustion  | All |  |  
+**Hazards** <br>Risk of drowning  | All | **Tolerable**<br> |  
+**Hazards** <br>Risk of impact injury  | All | **Tolerable**<br> |  
+**Hazards** <br>Risk of water borne diseases  | All | **Tolerable**<br>  |  
+**Hazards** <br>Risk of Hyperthermia /Heat exhaustion  | All | **Tolerable**<br>  |  
   |  |  |  
-**Hazards** <br>Risk of petrol contamination  | All |  |  
-**Hazards** <br>Risk of petrol fire/explosion  |All  |  |  
-**Hazards** <br>Risk of pollution  | All |  |  
+**Hazards** <br>Risk of petrol contamination  | All | **Tolerable**<br>  |  
+**Hazards** <br>Risk of petrol fire/explosion  |All  | **Tolerable**<br>  |  
+**Hazards** <br>Risk of pollution  | All | **Tolerable**<br>  |  
 
 
 
