@@ -10,6 +10,7 @@ order: 20
 - Dynamic (need to be assessed on the day and continuously during the activity)
 
 ## Levels of Risk
+![Wind Limits for SUP](https://numbat70.github.io/clyde/Content/risks.png "WRisk Matrix")
 
 ![Risk Matrix](https://numbat70.github.io/clyde/content/risks.png)
 
