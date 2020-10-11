@@ -10,9 +10,9 @@ order: 20
 - Dynamic (need to be assessed on the day and continuously during the activity)
 
 ## Levels of Risk
-![Wind Limits for SUP](https://numbat70.github.io/clyde/Content/risks.png "WRisk Matrix")
+![Risk Matrix](https://numbat70.github.io/clyde/Content/risks.png "Risk Matrix")
 
-![Risk Matrix](https://numbat70.github.io/clyde/content/risks.png)
+
 
 1. Trivial – No action is required and no documentary records need be kept
 2. Tolerable – No additional controls are required. Monitoring required ensuring controls are maintained
