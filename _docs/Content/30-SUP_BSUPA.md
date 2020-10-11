@@ -10,6 +10,7 @@ order: 1
 ## BSUPA Membership site:
 - [https://bsupa.azolve.com/Account.mvc/Login?ReturnUrl=%2f](https://bsupa.azolve.com/Account.mvc/Login?ReturnUrl=%2f)
 
+---
 
 **The following courses can be taught at the school**
 
@@ -29,6 +30,8 @@ It covers:
 - Hazards
 - Self Rescue
 - Trip planning
+
+---
 
 ## Ready to Tour
 A 2 hour introduction to flat water touring.
@@ -52,6 +55,8 @@ And by the end of it you should:
 - Can navigate obstacles, and third parties afloat taking into account, flow, weather and any other elements.
 - Have knowledge of how to plan a trip taking into account weather, flow, tide, access, 3rd parties, exit options,
 - Have understanding of personal gear you might take with you when touring. Have planned completed and experienced a tour.
+
+---
 
 ## Ready to Race
 Our course designed to get you started with racing or improve upon your current performance
