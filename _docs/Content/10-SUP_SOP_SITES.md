@@ -26,7 +26,7 @@ Date: 30th Sept 2020
 - Fog is common on colder mornings and usually lifts by mid mornimng.
 - It is *prohibited* to go on the water when it is foggy.
    - It raises the collision risk to an unacceptable level
-   - It raises the risk of becoming disoriented and lost. This in turn can lead to exhaustion or effects of the cold.  
+   - It raises the risk of becoming disoriented and lost. This in turn can lead to exhaustion and cold exposure.  
 
 ### Wind
 - Lochwinnoch is not tidal but is open to wind.
