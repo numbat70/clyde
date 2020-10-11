@@ -26,10 +26,10 @@ order: 20
 
 Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 --- | --- | --- | ---
-**Hazard** Slip on Waterside environment | All | Bruises and broken bones up to concussion and neck injury | Educate participants about slip hazard and mandate suitable footwear or bare feet
-**Hazard** Slips, Trips & Falls on route to water  | All | Bruises and broken bones up to concussion and neck injury |  Educate users on Trip Hazards as well as the safe way to carry SUP and Paddle. Highlight the length of SUP's and how to avoid hitting things when navigating with them on land.
-**Hazard** Equipment failure  | All | Low initial severity if caught quickly. Raising severity if unresolved.  | All Kit checked prior to session (SOP Procedure) with a spare paddle carried by Instructor to meet most common equipment failure.
-**Hazard** Covid infection  | All | Low risk if managed |  Ensure that all particpants understand the Covid policy and Instructors and Covid Officer implement the Covid policy
+**Hazard** Slip on Waterside environment | All | Tolerable. Bruises and broken bones up to concussion and neck injury | Educate participants about slip hazard and mandate suitable footwear or bare feet
+**Hazard** Slips, Trips & Falls on route to water  | All | Tolerable. Bruises and broken bones up to concussion and neck injury |  Educate users on Trip Hazards as well as the safe way to carry SUP and Paddle. Highlight the length of SUP's and how to avoid hitting things when navigating with them on land.
+**Hazard** Equipment failure  | All | Trivial. Low initial severity if caught quickly. Raising severity if unresolved.  | All Kit checked prior to session (SOP Procedure) with a spare paddle carried by Instructor to meet most common equipment failure.
+**Hazard** Covid infection  | All | Tolerable. Low risk if managed |  Ensure that all particpants understand the Covid policy and Instructors and Covid Officer implement the Covid policy
 Risk of boat being operated by unqualified persons  | All | Trivial |  Only responsible persons allowed access to boat. Only holders of RYA powerboat level 2 to operate safety boat
 Risk of person falling out of boat when underway  | All | Tolerable |  Crew to be briefed in safety procedures before boarding. Crew to wear suitable clothing and PFD.
 Risk of boat running out of control if cox’n falls overboard  | All | Trivial |  Cox’n always to use ‘Kill Cord’
