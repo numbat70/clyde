@@ -28,7 +28,7 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 --- | --- | --- | ---
 **Hazard** <br>Slip on Waterside environment | All | **Tolerable**<br> Bruises and broken bones up to concussion and neck injury | Educate participants about slip hazard and mandate suitable footwear or bare feet
 **Hazard** <br>Slips, Trips & Falls on route to water  | All | **Tolerable**<br> Bruises and broken bones up to concussion and neck injury |  Educate users on Trip Hazards as well as the safe way to carry SUP and Paddle. Highlight the length of SUP's and how to avoid hitting things when navigating with them on land.
-**Hazard** <br>Equipment failure  | All | **Trivial**.<br> Low initial severity if caught quickly. Raising severity if unresolved.  | All Kit checked prior to session (SOP Procedure) with a spare paddle carried by Instructor to meet most common equipment failure.
+**Hazard** <br>Equipment failure  | All | **Trivial**.<br> Low initial severity if caught quickly. Raising severity if unresolved.  | All Kit checked prior to session (SOP Procedure) with a spare paddle carried by Instructor to meet most common equipment failure. <br> Maintain and inspect all club kit regularly and check any members own kit being used on courses.
 **Hazard** <br>Covid infection  | All | **Tolerable**.<br> Low risk if managed |  Ensure that all particpants understand the Covid policy and Instructors and Covid Officer implement the Covid policy
   |  |  |  
 **Hazards** <br>Risk of boat being operated by unqualified persons  | All | **Trivial**<br> |  Only responsible persons allowed access to boat. Only holders of RYA powerboat level 2 to operate safety boat
@@ -43,10 +43,10 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 **Hazards** <br>Damage to property  | All | **Tolerable**<br> |  
 **Surface** <br>Broken glass, cans or other sharp objects  | All | **Tolerable**<br> |  Training and rigging areas clearly defined to pupils and instructors. <br>Training and rigging areas checked and cleaned of excrement and sharp objects before each course
   |  |  |  
-**Hazards** <br>Risk of drowning  | All | **Tolerable**<br> |  
+**Hazards** <br>Risk of drowning  | All | **Tolerable**<br> |  Be able to swim 50m unaided before participating. <br> Safety briefings, club supplied buoyancy aids as per RYA windsurfing Policy and BSUPA policy
 **Hazards** <br>Risk of impact injury  | All | **Tolerable**<br> |  
-**Hazards** <br>Risk of water borne diseases  | All | **Tolerable**<br>  |  
-**Hazards** <br>Risk of Hyperthermia /Heat exhaustion  | All | **Tolerable**<br>  |  
+**Hazards** <br>Risk of water borne diseases  | All | **Tolerable**<br>  |  Follow local guidelines for water quality and do not sail in or swallow blue green foam <br> Shower after immersion in water <br> *Note* This may be paused due to Covid restrictions. Advise showering on return home and before eating.
+**Hazards** <br>Risk of Hyperthermia /Heat exhaustion  | All | **Tolerable**<br>  |  Wear suitable clothing and footwear for conditions
   |  |  |  
 **Hazards** <br>Risk of petrol contamination  | All | **Tolerable**<br>  |  
 **Hazards** <br>Risk of petrol fire/explosion  |All  | **Tolerable**<br>  |  
