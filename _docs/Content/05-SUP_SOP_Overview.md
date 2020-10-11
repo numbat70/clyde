@@ -32,6 +32,6 @@ These procedures cover the delivery of Stand Up Paddle-board training and relate
 ## Refunds and cancellations Policy
 - If we have to cancel a session, we will offer a full refund or an alternative date (Customer to choose which)
 - If a customer cancels with 24hours or greater notice, we will offer a full refund or alternative date (Customer to Choose)
-- If a customer cancels with less than 24 hours policy then we will offer an alternative date.
+- If a customer cancels with less than 48 hours policy then we will offer an alternative date.
 
 **[Continue to Courses](/clyde/Content/06-SUP_SOP_Courses/)**
