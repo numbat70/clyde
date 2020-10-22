@@ -94,10 +94,3 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
 
 
 :pill:
-
-
-🔫
-
-:gun:
-
-:euro:
