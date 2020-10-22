@@ -88,9 +88,3 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure
   |  |  |  
 
 **[Continue to EAP](/clyde/Content/21-SUP_EAP/)**  
-
-
-:joy:
-
-
-:pill:
