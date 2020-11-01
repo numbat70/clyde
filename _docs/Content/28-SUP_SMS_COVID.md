@@ -1,5 +1,5 @@
 ---
-title: Covid Policy
+title: SMS - Covid Policy
 category: SUP Safety Management System
 order: 28
 ---
