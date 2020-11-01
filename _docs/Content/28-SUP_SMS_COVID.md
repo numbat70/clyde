@@ -19,7 +19,7 @@ order: 28
 ## Covid Procedures
 - No Safety Boat will be launched
 - Participants will have to Book a slot for each session
-- Kit will be layed out in advance by instructors
+- Kit will be laid out in advance by instructors
 - Attendees will transport their own kit to and from the water
 - Participants are encouraged to come already wearing wetsuit/kit
 - Parents of children must observe distancing on shore and avoid the compound and launching areas.
