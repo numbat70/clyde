@@ -39,13 +39,13 @@ order: 28
 
 ## Further Resources (Scotland)
 
-    - [NHS Inform (NHS Scotland website)](https://www.nhs.uk/conditions/coronavirus-covid-19/) 
-    - [Scottish Government](https://www.gov.scot/coronavirus-covid-19/)
-    - [Scottish Outdoor Access Code](https://www.outdooraccess-scotland.scot/) 
-    - [Dept of Health (UK Government) will be updated at 2pm daily](https://www.gov.uk/government/topical-events/coronavirus-covid-19-uk-government-response)
-    - [World Health Organisation situation report (updates)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/) 
-    - [Health and Safety Executive (HSE)](https://www.hse.gov.uk/news/coronavirus.htm)
-    - [Foreign and Commonwealth Office](https://www.gov.uk/guidance/travel-advice-novel-coronavirus) 
+- [NHS Inform (NHS Scotland website)](https://www.nhs.uk/conditions/coronavirus-covid-19/) 
+- [Scottish Government](https://www.gov.scot/coronavirus-covid-19/)
+- [Scottish Outdoor Access Code](https://www.outdooraccess-scotland.scot/) 
+- [Dept of Health (UK Government) will be updated at 2pm daily](https://www.gov.uk/government/topical-events/coronavirus-covid-19-uk-government-response)
+- [World Health Organisation situation report (updates)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/) 
+- [Health and Safety Executive (HSE)](https://www.hse.gov.uk/news/coronavirus.htm)
+- [Foreign and Commonwealth Office](https://www.gov.uk/guidance/travel-advice-novel-coronavirus) 
 
 
 
