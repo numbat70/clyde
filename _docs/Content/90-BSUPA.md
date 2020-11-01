@@ -1,6 +1,6 @@
 ---
 title: BSUPA
-category: SUP General
+category: General
 order: 1
 ---
 ## BSUPA Website
