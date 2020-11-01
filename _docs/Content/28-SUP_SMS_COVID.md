@@ -6,7 +6,7 @@ order: 28
 
 ## Covid policy
 - Activity can only take place if **all participants can maintain 2m at all times**
-- The school is now in a Tier 3 Area (Central Belt). Only people from within that Tier 3 Area can attend sessions.
+- The school is now in a **Tier 3 Area (Central Belt)**. Only people from within that Tier 3 Area can attend sessions.
 	- The Central Belt comprises of the following Health Boards areas 
 		- Lothian 
 		- Lanarkshire 
@@ -17,11 +17,12 @@ order: 28
 
 
 ## Covid Procedures
-- No Safety Boat will be launched
-- Participants will have to Book a slot for each session
+- **No Safety Boat** will be launched
+- Participants will have to **Book** a slot for each session
 - Kit will be laid out in advance by instructors
 - Attendees will transport their own kit to and from the water
-- Participants are encouraged to come already wearing wetsuit/kit
+- Participants are encouraged to come already wearing wetsuit/kit if possible
+- No shower/toilet facilities will be available.
 - Parents of children must observe distancing on shore and avoid the compound and launching areas.
 - Track and Trace details will be collected during **Booking** process
 - Club Wetsuits and PFD's should be hung over the *Cleaning Line* which will be signposted
