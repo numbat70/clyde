@@ -25,9 +25,9 @@ order: 28
 - Parents of children must observe distancing on shore and avoid the compound and launching areas.
 - Track and Trace details will be collected during **Booking** process
 - Club Wetsuits and PFD's should be hung over the *Cleaning Line* which will be signposted
-	- These will then be cleaned in preparation for teh next session. 
+	- These will then be cleaned in preparation for the next session. 
 - There must be 48 hours between sessions (Start Times). This is to allow adequaet time to clean and **reset** the compound for Covid Safe operation.
- 
+
 
 
 
