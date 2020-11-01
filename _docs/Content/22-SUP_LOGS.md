@@ -1,5 +1,5 @@
 ---
-title: Logs
+title: SMS - Logs
 category: SUP Safety Management System
 order: 22
 ---
