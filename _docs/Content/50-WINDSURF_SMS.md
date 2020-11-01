@@ -1,6 +1,6 @@
 ---
 title: Safety Management System
-category: Windsurf
+category: WINDSURF Safety Management System
 order: 50
 ---
 
