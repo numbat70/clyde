@@ -24,13 +24,18 @@ order: 28
 - Participants are encouraged to come already wearing wetsuit/kit
 - Parents of children must observe distancing on shore and avoid the compound and launching areas.
 - Track and Trace details will be collected during **Booking** process
+- Club Wetsuits and PFD's should be hung over the *Cleaning Line* which will be signposted
+	- These will then be cleaned in preparation for teh next session. 
+- There must be 48 hours between sessions (Start Times). This is to allow adequaet time to clean and **reset** the compound for Covid Safe operation.
+ 
+
 
 
 
 ## Sport Scotland & RYA Guidance
 - [Sport Scotland Covid Information](https://sportscotland.org.uk/covid-19/)
-- [RYA Covid Restrat Guidance](https://www.rya.org.uk/training-support/Pages/covid-19-return-to-boating-guidance.aspx)
-- [RYA Return to Boating](https://www.rya.org.uk/programmes/Pages/return-to-boating.aspx)
+- [RYA Covid Restart Guidance](https://www.rya.org.uk/training-support/Pages/covid-19-return-to-boating-guidance.aspx)
+- [RYA Return to Boating](https://www.rya.org.uk/scotland/representation/Pages/Return-to-Boating.aspx)
 
 ## Further Resources (Scotland)
 
