@@ -6,7 +6,14 @@ order: 28
 
 ## Covid policy
 - Activity can only take place if **all participants can maintain 2m at all times**
-- The school is now in a Tier 3 Area. Only people from within that Tier 3 Area can attend sessions.
+- The school is now in a Tier 3 Area (Central Belt). Only people from within that Tier 3 Area can attend sessions.
+	- The Central Belt comprises of the following Health Boards areas 
+		- Lothian 
+		- Lanarkshire 
+		- Forth Valley 
+		- Ayrshire & Arran 
+		- Greater Glasgow & Clyde 
+	
 
 
 ## Covid Procedures
@@ -16,7 +23,7 @@ order: 28
 - Attendees will transport their own kit to and from the water
 - Participants are encouraged to come already wearing wetsuit/kit
 - Parents of children must observe distancing on shore and avoid the compound and launching areas.
-- TRack and Trace details will be collected during **Booking** process
+- Track and Trace details will be collected during **Booking** process
 
 
 
