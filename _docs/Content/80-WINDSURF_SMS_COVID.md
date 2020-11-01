@@ -29,7 +29,6 @@ order: 80
 - There must be 48 hours between sessions (Start Times). This is to allow adequaet time to clean and **reset** the compound for Covid Safe operation.
 
 
-
 ## Sport Scotland & RYA Guidance
 - [Sport Scotland Covid Information](https://sportscotland.org.uk/covid-19/)
 - [RYA Covid Restart Guidance](https://www.rya.org.uk/training-support/Pages/covid-19-return-to-boating-guidance.aspx)
