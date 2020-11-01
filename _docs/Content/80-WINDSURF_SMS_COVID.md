@@ -15,7 +15,6 @@ order: 80
 		- Greater Glasgow & Clyde 
 	
 
-
 ## Covid Procedures
 - **No Safety Boat** will be launched
 - Participants will have to **Book** a slot for each session
@@ -28,8 +27,6 @@ order: 80
 - Club Wetsuits and PFD's should be hung over the *Cleaning Line* which will be signposted
 	- These will then be cleaned in preparation for the next session. 
 - There must be 48 hours between sessions (Start Times). This is to allow adequaet time to clean and **reset** the compound for Covid Safe operation.
-
-
 
 
 
@@ -48,6 +45,3 @@ order: 80
 - [Health and Safety Executive (HSE)](https://www.hse.gov.uk/news/coronavirus.htm)
 - [Foreign and Commonwealth Office](https://www.gov.uk/guidance/travel-advice-novel-coronavirus) 
 
-
-
-**[Continue to Validation Quiz](/clyde/Content/29-SUP_SMS_Quiz/)**
