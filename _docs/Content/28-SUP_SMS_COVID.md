@@ -6,13 +6,8 @@ order: 28
 
 ## Covid policy
 - Activity can only take place if **all participants can maintain 2m distancing at all times**
-- The school is now in a **Tier 4 Area**. Only people from within that Tier 3 Area can attend sessions.
-	- The Central Belt comprises of the following Health Boards areas 
-		- Lothian 
-		- Lanarkshire 
-		- Forth Valley 
-		- Ayrshire & Arran 
-		- Greater Glasgow & Clyde 
+- The school is now in a **Tier 4 Area**. Only people from within that Tier 4 Area can attend sessions.
+
 	
 
 ## Covid Procedures
