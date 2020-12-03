@@ -15,7 +15,6 @@ order: 28
 		- Greater Glasgow & Clyde 
 	
 
-
 ## Covid Procedures
 - **No Safety Boat** will be launched
 - Participants will have to **Book** a slot for each session
