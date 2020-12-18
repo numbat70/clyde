@@ -14,7 +14,7 @@ It will be:
 
 ## What the event will (Probably) look like
 
-[ALDI](https://www.aldi.co.uk) have kindly sponsored us buying Race Marker Buoys. 
+[ALDI](https://www.aldi.co.uk){:target="_blank"} have kindly sponsored us buying Race Marker Buoys. 
 This means that we can set up a variety of courses. 
 
 At the moment we are trying to design a range of courses to have something for everyone.
