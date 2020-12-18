@@ -6,15 +6,9 @@ order: 28
 
 ## Covid policy
 - Activity can only take place if **all participants can maintain 2m distancing at all times**
-- The school is now in a **Tier 3 Area (Central Belt)**. Only people from within that Tier 3 Area can attend sessions.
-	- The Central Belt comprises of the following Health Boards areas 
-		- Lothian 
-		- Lanarkshire 
-		- Forth Valley 
-		- Ayrshire & Arran 
-		- Greater Glasgow & Clyde 
-	
+- The school is now in a **Tier 4 Area**. Only people from within that Tier 4 Area can attend sessions.
 
+	
 
 ## Covid Procedures
 - **No Safety Boat** will be launched
@@ -28,10 +22,6 @@ order: 28
 - Club Wetsuits and PFD's should be hung over the *Cleaning Line* which will be signposted
 	- These will then be cleaned in preparation for the next session. 
 - There must be 48 hours between sessions (Start Times). This is to allow adequaet time to clean and **reset** the compound for Covid Safe operation.
-
-
-
-
 
 ## Sport Scotland & RYA Guidance
 - [Sport Scotland Covid Information](https://sportscotland.org.uk/covid-19/)
