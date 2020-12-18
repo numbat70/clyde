@@ -8,7 +8,7 @@ order: 1
 It will be:
 - A community minded fun event for anyone who wants to give it a bash
 - Have kit available so that anyone can take part
-- Have a variety of individual events from Fun all teh way to serious racing
+- Have a variety of individual events from fun all the way to serious racing
 - Be deisgned for spectator friendlieness
 - Our first event. This means it will be a voyage of discovery and any suggestions or help are appreciated.
 
