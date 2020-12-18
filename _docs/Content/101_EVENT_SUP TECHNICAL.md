@@ -1,34 +1,28 @@
 ---
-title: SUP Spring Event
+title: SUP Technical Race
 category: Events
-order: 1
+order: 2
 ---
 
-## In the Spring, we are hoping to run the event we have been planning, and delaying, for a year now. 
+## Technical races are:
+1. great fun
+2. great to watch
+3. fast
+4. chaotic
+5. exhausting
+
 It will be:
-- A community minded fun event for anyone who wants to give it a bash
-- Have kit available so that anyone can take part
-- Have a variety of individual events from fun, all the way to serious racing
-- Be deisgned for spectator friendlieness
-- Our first event. This means it will be a voyage of discovery, and any suggestions or help are appreciated.
+- 100 metre course, in the shape of an “M”.
+This gives a race that stays close to the shore and has 3 turns.
+This is fairly technical and also good for spectators.
+It will have heats:
+- Heats of 10 racers.
+- First 2 of each race go through next stage
+- 3 laps per race
 
-## What the event will (Probably) look like
-
-[ALDI](https://www.aldi.co.uk){:target="_blank"} have kindly sponsored us buying Race Marker Buoys. 
-This means that we can set up a variety of courses. 
-
-At the moment we are trying to design a range of courses to have something for everyone.
-So far we are thinking:
-1.  🏁 Technical Racing. Short M shaped courses (100m) where you race 3 laps and compete in heats
-2.  🏁 Sprints. 200m Straight Sprints. Race in heats and just go for it.
-3.  🏁 A slightly longer distance event.
-4.  📐 Skills competitions. Fun and funny. Spinning whilst standing on the nose etc...
-5.  📐 Games.......
-6.  💡 Beginner "Try SUP" sessions  
-
-The idea will be that you can enter all the events. 
-The timings will not overlap.
-We will probably do the skills events at the end when your legs are nice and tired 😈
+Final
+- 1 race of 6 racers
+- 3 laps for final race
 
 
 
