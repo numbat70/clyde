@@ -28,6 +28,4 @@ Final
 
 
 
-
-
 **[Continue to Technical Race Details](/clyde/Content/101_EVENT_SUP_TECHNICAL.md/)**
