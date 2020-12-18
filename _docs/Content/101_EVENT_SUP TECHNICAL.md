@@ -24,6 +24,8 @@ Final
 - 1 race of 6 racers
 - 3 laps for final race
 
+![Technical Race Course](technical.png)
+
 
 
 
