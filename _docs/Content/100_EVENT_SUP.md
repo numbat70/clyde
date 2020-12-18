@@ -34,4 +34,4 @@ We will probably do the skills events at the end when your legs are nice and tir
 
 
 
-**[Continue to Technical Race Details](/clyde/Content/101_EVENT_SUP_TECHNICAL.md/)**
+**[Continue to Technical Race Details](/clyde/Content/101_EVENT_SUP_TECHNICAL.md)**
