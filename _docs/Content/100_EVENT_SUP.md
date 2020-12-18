@@ -23,7 +23,8 @@ So far we are thinking:
 2.  🏁 Sprints. 200m Straight Sprints. Race in heats and just go for it.
 3.  🏁 A slightly longer distance event.
 4.  📐 Skills competitions. Fun and funny. Spinning whilst standing on the nose etc...
-5.  💡 Beginner "Try SUP sessions"  
+5.  📐 Games.......
+6.  💡 Beginner "Try SUP" sessions  
 
 The idea will be that you can enter all the events. 
 The timings will not overlap.
