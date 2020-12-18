@@ -29,4 +29,7 @@ The timings will not overlap.
 We will probably do the skills events at the end when your legs are nice and tired 😈
 
 
+
+
+
 **[Continue to Technical Race Details](/clyde/Content/101.md/)**
