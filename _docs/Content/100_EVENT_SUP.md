@@ -1,6 +1,6 @@
 ---
-title: Events
-category: SUP Spring Event
+title: SUP Spring Event
+category: Events
 order: 1
 ---
 
