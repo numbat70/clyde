@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="920px" height="1243px" viewBox="0 0 920 1243" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>clydelogoonly</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-0.1%" y="-1.3%" width="100.2%" height="102.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-0.6%" y="-0.7%" width="101.4%" height="101.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="-0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="clydelogoonly" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="011-windsurf-1" transform="translate(224.000000, 273.000000)" fill="#000000">
+            <polygon id="Path" stroke="#000000" filter="url(#filter-1)" points="18.9920574 879 479.496029 879 479.992057 918.566348 18.9920574 918.566348"></polygon>
+            <polygon id="Path-5" stroke="#000000" filter="url(#filter-2)" points="175.005229 569.567525 112.264239 569.567525 112.264239 638.067525 201.5 638.067525"></polygon>
+            <path d="M139.813702,22.9334949 C-60.210007,322.657023 -6.18333239,650.809376 148.488692,879 C148.488692,879 169.066658,879 210.222588,879 C229.249979,879 276.355701,880.174516 275.429654,879 C204.141406,788.58428 -27.807994,472.57399 223.598374,81.4466788 C235.104867,63.5453676 241.669434,31.6862231 210.887317,10.1887387 C180.105199,-11.3087457 148.488692,8.59599988 139.813702,22.9334949 Z" id="Mast" filter="url(#filter-3)"></path>
+            <path d="M175.005229,569 L481.66309,572.157749 C500.547697,574.693634 509.99,585.651991 509.99,605.032819 C509.99,624.413648 500.547697,635.591883 481.66309,638.567525 C298.124767,638.567525 202.163262,638.567525 193.778574,638.567525 C184.764051,615.114199 178.506269,591.925023 175.005229,569 Z" id="Path-2" filter="url(#filter-4)"></path>
+            <path d="M205.706074,673.278735 C232.790854,736.143393 273.06314,804.717148 326.522932,879 C346.384109,879.522007 349.174978,879.522007 363.740082,879 C452.755735,734.151965 431.301731,768.935459 479.696158,692.295126 C493.796487,669.324164 489.490516,673.278735 422.075187,673.278735 C351.216214,673.278735 279.093177,673.278735 205.706074,673.278735 Z" id="Path-3" filter="url(#filter-5)"></path>
+            <path d="M171.639622,536.786903 C301.190233,536.786903 171.639622,536.786903 419.18617,536.786903 C526.580756,536.786903 526.580756,541.504191 529.035324,525.927017 C487.618618,422.204951 368.79366,195.727623 301.190233,97.8775791 C290.371522,85.3758522 280.141444,85.3758522 270.5,97.8775791 C186.424714,228.413845 153.471255,374.716953 171.639622,536.786903 Z" id="Path-4" filter="url(#filter-6)"></path>
+        </g>
+        <path d="M460,23 C464.440283,23 472.10915,24.041286 481.493506,31.078376 C578.780856,104.031685 914.175948,533.18539 916,863.387416 C914,1007.25284 832.822475,1238 460,1238 C76.676964,1238 5,1011.86899 5,863.387416 C5,533.942278 341.877528,104.189456 439.45516,31.1024427 C448.8708,24.0499962 455.558304,23 460,23 Z M460.126072,137.273642 C418.781104,137.273642 87,547.564496 87,855.162393 C87,981.597192 145.714696,1174.15192 459.716493,1174.15192 C765.116681,1174.15192 831.613829,977.666459 833.252143,855.162393 C831.613829,546.867262 501.471039,137.273642 460.126072,137.273642 Z" id="Paddle-New" fill="#000000" filter="url(#filter-7)"></path>
+    </g>
+</svg>
