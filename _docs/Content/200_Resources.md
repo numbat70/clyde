@@ -42,9 +42,11 @@ You will probably have to download this if you want to edit the original (Sketch
 
 ### Clyde SUP
 
-###
+### Other
 
 ###
+
+
 
 
 ![Main Logo](https://numbat70.github.io/clyde/Content/technical.png)
