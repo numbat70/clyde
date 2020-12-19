@@ -45,7 +45,6 @@ You will probably have to download this if you want to edit the original (Sketch
 - [Download Red Banner as a PDF](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.pdf)
 - [Download Red Banner as a Sketch File](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.sketch)
 
-
 ### Clyde WIndsurfing
 
 ### Clyde SUP
