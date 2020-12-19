@@ -4,9 +4,9 @@ category: Resources
 order: 1
 ---
 Clyde Windsurfing club refreshed it's Logo in 2019.
-- This was to reflect that it now is a Windsurfing club that now also supports SUP.
+- This was to reflect that it's' a Windsurfing club, that now also supports SUP.
 - The New Logo is a SUP paddle with a Windsurfer inside of it.
--  The SUP paddle also suggests a water droplet.
+- The SUP paddle also suggests a water droplet.
 
 ## Fonts
 The logo uses
