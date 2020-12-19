@@ -44,7 +44,7 @@ You will probably have to download this if you want to edit the original (Sketch
 
 ### Clyde SUP
 
-### Other
+###
 
 ###
 
