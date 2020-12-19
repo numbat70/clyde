@@ -29,8 +29,6 @@ You will probably have to download this if you want to edit the original (Sketch
 ## Main Logo
 ![Main Logo](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNERsmall.png)
 
-
-
 - [Download as a PNG](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.png)
 - [Download as a JPG](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.jpg)
 - [Download as a SVG](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.svg)
@@ -39,6 +37,14 @@ You will probably have to download this if you want to edit the original (Sketch
 
 
 ### Red Banner
+![Red Banner](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNERsmall.png)
+
+- [Download Red Banner as a PNG](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.png)
+- [Download Red Banner as a JPG](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.jpg)
+- [Download Red Banner as a SVG](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.svg)
+- [Download Red Banner as a SVG](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.pdf)
+- [Download Red Banner as a Sketch File](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.sketch)
+
 
 ### Clyde WIndsurfing
 
