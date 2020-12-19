@@ -27,13 +27,13 @@ The logo uses
 You will probably have to download this if you want to edit the original (Sketch/SVG) drawing
 
 ## Main Logo
-![Main Logo](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.png)
+![Main Logo](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.png | width=100)
 
-[Download as a PNG](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.png)
-[Download as a JPG](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.jpg)
-[Download as a SVG](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.svg)
-[Download as a SVG](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.pdf)
-[Download as a Sketch File](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.sketch)
+- [Download as a PNG](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.png)
+- [Download as a JPG](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.jpg)
+- [Download as a SVG](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.svg)
+- [Download as a SVG](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.pdf)
+- [Download as a Sketch File](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.sketch)
 
 
 ### Red Banner
