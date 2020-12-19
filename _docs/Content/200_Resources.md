@@ -8,6 +8,9 @@ Clyde Windsurfing club refreshed it's Logo in 2019.
 - The New Logo is a SUP paddle with a Windsurfer inside of it.
 -  The SUP paddle also suggests a water droplet.
 
+## Fonts
+The logo uses
+- **Tsukushi A Round Gothic**
 
 ## Clyde Windsurfing & SUP:
 The Logo can be used as a Standalone Graphic or with the following text beneath it
@@ -15,15 +18,12 @@ The Logo can be used as a Standalone Graphic or with the following text beneath 
 - Clyde
 - *No text* under the Logo
 
-
 The key & constant identity is **"CLYDE"**.
 
 The following Logos can be downloaded for club uses.
 If you don't know if your use is permitted, then check with the committee (admin@clydewindsurfing.co.uk)
 
-## Fonts
-The logo uses
-- **Tsukushi A Round Gothic**
+
 
 You will probably have to download this if you want to edit the original (Sketch/SVG) drawing
 
