@@ -12,6 +12,9 @@ Clyde Windsurfing club refreshed it's Logo in 2019.
 The logo uses
 - **Tsukushi A Round Gothic**
 
+You will probably have to download this if you want to edit the original (Sketch/SVG) drawing
+It may also be needed for PDF/SVG/Sketch to display properly.
+
 ## Clyde Windsurfing & SUP:
 The Logo can be used as a Standalone Graphic or with the following text beneath it
 - Clyde Windsurfing & SUP
@@ -25,7 +28,6 @@ If you don't know if your use is permitted, then check with the committee (admin
 
 
 
-You will probably have to download this if you want to edit the original (Sketch/SVG) drawing
 
 ## Main Logo
 ![Main Logo](https://numbat70.github.io/clyde/files/clydelogosmall.png)
