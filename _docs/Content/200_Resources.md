@@ -13,6 +13,7 @@ Clyde Windsurfing club refreshed it's Logo in 2019.
 The Logo can be used as a Standalone Graphic or with the following text beneath it
 - Clyde Windsurfing & SUP
 - Clyde
+- *No text* under the Logo
 
 
 The key & constant identity is **"CLYDE"**.
