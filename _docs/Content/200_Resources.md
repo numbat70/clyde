@@ -45,20 +45,21 @@ You will probably have to download this if you want to edit the original (Sketch
 - [Download Red Banner as a PDF](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.pdf)
 - [Download Red Banner as a Sketch File](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.sketch)
 
-### Clyde WIndsurfing
+### Clyde
+![Main Logo](https://numbat70.github.io/clyde/files/clydelogoclydesmall.png)
 
-### Clyde SUP
-
-### Other
-
-###
-
-
+- [Download logo as a PNG](https://numbat70.github.io/clyde/files/clydelogoclyde.png)
+- [Download logo as a JPG](https://numbat70.github.io/clyde/files/clydelogoclyde.jpg)
+- [Download logo as a SVG](https://numbat70.github.io/clyde/files/clydelogoclyde.svg)
+- [Download logo as a PDF](https://numbat70.github.io/clyde/files/clydelogoclyde.pdf)
+- [Download logo as a Sketch File](https://numbat70.github.io/clyde/files/clydelogoclyde.sketch)
 
 
-![Main Logo](https://numbat70.github.io/clyde/Content/technical.png)
+### Logo with no text
+![Main Logo](https://numbat70.github.io/clyde/files/clydelogoonlysmall.png)
 
-[Download as a PNG](https://numbat70.github.io/clyde/files/xxx.png)
-[Download as a JPG](https://numbat70.github.io/clyde/files/xxx.png)
-[Download as a SVG](https://numbat70.github.io/clyde/files/xxx.png)
-[Download as a Sketch File](https://numbat70.github.io/clyde/files/xxx.png)
+- [Download logo as a PNG](https://numbat70.github.io/clyde/files/clydelogoonly.png)
+- [Download logo as a JPG](https://numbat70.github.io/clyde/files/clydelogoonly.jpg)
+- [Download logo as a SVG](https://numbat70.github.io/clyde/files/clydelogoonly.svg)
+- [Download logo as a PDF](https://numbat70.github.io/clyde/files/clydelogoonly.pdf)
+- [Download logo as a Sketch File](https://numbat70.github.io/clyde/files/clydelogoonly.sketch)
