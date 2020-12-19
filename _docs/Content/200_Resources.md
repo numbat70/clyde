@@ -27,7 +27,7 @@ The logo uses
 You will probably have to download this if you want to edit the original (Sketch/SVG) drawing
 
 ## Main Logo
-![Main Logo](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.png){:height="100px" }
+![Main Logo](https://numbat70.github.io/clyde/files/clyde_paddle_9c_RED_BANNER.png){:height="100" }
 
 
 
