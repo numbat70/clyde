@@ -9,9 +9,8 @@ order: 228
 
 # COVID Measures
 
-Despite the great news regarding COVID we still must operate with COVID preventative measures and restrictions in place, and as the new season approaches I want to remind you what these are:
-
-Independent sailing and SUPing are permitted.
+- Despite the great news regarding COVID, we still must operate with COVID preventative measures and restrictions in place, and as the new season approaches.
+- Independent sailing and SUPing are permitted.
 
 ## Arival & Departure
 
