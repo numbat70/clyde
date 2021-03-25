@@ -30,8 +30,8 @@ order: 228
 - You must book a slot before you come to the club.
 - There is a limit on the session numbers. **You must have a slot booked before attending.**
 - 2m distancing at all times.
-- Use your own equipment only, unless prior arrangement has been made with the Session Coach.
-- If equipment is required fro the compound the the session coach may assign a volunteer as the "Compound Manager"
+- Use your own equipment, unless prior arrangement has been made with the Session Coach.
+- If equipment is required from the compound the the session coach may assign a volunteer as the "Compound Manager"
 - If a "Coached Session" offers the use of club kit, then it will be layed out for you by the Coach or Compound Manager before hand. They will handle delivery and recovery of any club kit. <br />**No parents or volunteers can assist with this or the safety boat preparation.**
 - All club storage areas, are not accessible to participants.
 - Be cautious at all times on and off the water.
