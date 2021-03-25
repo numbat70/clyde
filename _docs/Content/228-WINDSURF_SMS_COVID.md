@@ -24,7 +24,7 @@ order: 228
 - Hand disinfect, when you: 
   - Enter the compound <br />Especially if you are going to:  
     - Touch the gate
-    - Accept or Return club kit
+    - Accept or return club kit
     - Touch any club kit 
 - You must be a club member.
 - You must book a slot before you come to the club.
