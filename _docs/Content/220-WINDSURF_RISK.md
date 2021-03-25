@@ -1,5 +1,5 @@
 ---
-title: SMS - Risk Assesment
+title: Risk Assesment
 category: WINDSURF Safety Management System
 order: 220
 ---

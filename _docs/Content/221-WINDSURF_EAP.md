@@ -1,5 +1,5 @@
 ---
-title: SMS - EAP (Emergency Action Plan)
+title: EAP (Emergency Action Plan)
 category:  WINDSURF Safety Management System
 order: 221
 ---

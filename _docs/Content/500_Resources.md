@@ -1,7 +1,7 @@
 ---
 title: Clyde Logo
 category: Resources
-order: 1
+order: 500
 ---
 Clyde Windsurfing club refreshed it's Logo in 2019.
 - This reflect's that it's a Windsurfing club, that now also supports SUP.
