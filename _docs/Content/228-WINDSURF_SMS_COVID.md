@@ -39,13 +39,14 @@ order: 228
 ## Safety Boats
 The safety benefit of the RIB, is much greater than the COVID risk from operating the RIB, providing these precautions are followed:
 
-- RIBs can only be operated by the session coach and assistant.
+- RIBs can only be operated by the Session Coach and Assistant.
 - All RIB operations to follow these rules, during launching and recovery:
-- Where possible, members of the same household to launch and recover boats (Session Coach and Assistant)
-- All helpers must wear a face covering.
-- All helpers must stay 2m apart - use ropes to pull the trolley and the boat if required
-- Clean all surfaces post useage
-- We all need to understand and follow these precautions so that we can help everyone stay safe.
+  - Where possible, members of the same household to launch and recover boats (Session Coach and Assistant)
+  - All helpers must wear a face covering.
+  - All helpers must stay 2m apart - use ropes to pull the trolley and the boat if required
+  - Clean all surfaces post useage
+
+We all need to understand and follow these precautions so that we can help everyone stay safe.
 
 ## On the water
 - The only personal contact will be
