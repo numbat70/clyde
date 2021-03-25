@@ -15,7 +15,7 @@ order: 200
 It is where all the relevant safety related documents, procedures and knowledge are collated, taught, shared and used.
 It includes these documents
 
-1.  📕 [**Covid Policy & Procedure**](https://numbat70.github.io/clyde/Content/80-WINDSURF_SMS_COVID/)
+1.  📕 [**Covid Policy & Procedure**](https://numbat70.github.io/clyde/Content/228-WINDSURF_SMS_COVID/)
 2.  *FURTHER DOCUMENTATION BEING DIGITISED FROM PAPER BASED VERSIONS.*
 
 ## 📕SOP (Standard Operating Procedures)
@@ -46,6 +46,6 @@ We keep 3 Logs
 
 ## 📕 Covid Policy
 This policy is a constantly evolving document. Check it regularly for updates.
-- [**Covid Policy & Procedure**](https://numbat70.github.io/clyde/Content/80-WINDSURF_SMS_COVID/)
+- [**Covid Policy & Procedure**](https://numbat70.github.io/clyde/Content/228-WINDSURF_SMS_COVID/)
 
-**[Continue to Covid Policy](https://numbat70.github.io/clyde/Content/80-WINDSURF_SMS_COVID/)**
+**[Continue to Covid Policy](https://numbat70.github.io/clyde/Content/228-WINDSURF_SMS_COVID/)**

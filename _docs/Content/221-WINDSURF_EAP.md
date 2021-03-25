@@ -23,4 +23,4 @@ The EAP contains contact details as well as Location details (described and anno
 
 Recent updates to the EAP's are the use of ["What 3 Words"](https://what3words.com) location indicators.
 
-**[Continue to LOGS](/clyde/Content/22-SUP_LOGS/)**
+**[Continue to LOGS](/clyde/Content/222-WINDSURF_LOGS/)**
