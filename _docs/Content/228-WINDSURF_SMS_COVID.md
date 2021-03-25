@@ -5,7 +5,7 @@ order: 228
 ---
 
 - Activity can only take place if **all participants can maintain 2m distancing at all times**
-- The school is now in a **Tier 4 Area **. Only people from within that Tier 4 Area can attend sessions.
+- The school is now in a **Tier 4 Area**. Only people from within that Tier 4 Area can attend sessions.
 
 # COVID Measures
 
