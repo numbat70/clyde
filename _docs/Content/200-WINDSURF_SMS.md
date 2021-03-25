@@ -48,4 +48,4 @@ We keep 3 Logs
 This policy is a constantly evolving document. Check it regularly for updates.
 - [**Covid Policy & Procedure**](https://numbat70.github.io/clyde/Content/228-WINDSURF_SMS_COVID/)
 
-**[Continue to Covid Policy](https://numbat70.github.io/clyde/Content/228-WINDSURF_SMS_COVID/)**
+**[Continue to STANDARD OPERATING PROCEDURES (SOP)](https://numbat70.github.io/clyde/Content/204-WINDSURF_SOP/)**
