@@ -22,8 +22,7 @@ order: 228
 ## Compound :
 
 - Hand disinfect, when you: 
-  - Enter the compound
-  - Especially if you are going to:  
+  - Enter the compound <br />Especially if you are going to:  
     - Touch the gate
     - Accept or Return club kit
     - Touch any club kit 
