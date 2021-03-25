@@ -1,7 +1,7 @@
 ---
 title: SUP Technical Race
 category: Events
-order: 2
+order: 301
 ---
 
 ## Technical races are:

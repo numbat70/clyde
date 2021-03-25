@@ -1,7 +1,7 @@
 ---
 title: SUP Spring Event
 category: Events
-order: 1
+order: 300
 ---
 
 ## In the Spring, we are hoping to run the event we have been planning, and delaying, for a year now. 
