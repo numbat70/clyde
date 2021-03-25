@@ -32,7 +32,7 @@ order: 228
 - 2m distancing at all times.
 - Use your own equipment, unless prior arrangement has been made with the Session Coach.
 - If equipment is required from the compound the the session coach may assign a volunteer as the "Compound Manager"
-- If a "Coached Session" offers the use of club kit, then it will be layed out for you by the Coach or Compound Manager before hand. They will handle delivery and recovery of any club kit. <br />**No parents or volunteers can assist with this or the safety boat preparation.**
+- If a "Coached Session" offers the use of club kit, then it will be layed out for you by the Coach or Compound Manager before hand. They will handle delivery and recovery of any club kit. <br />**No parents or volunteers can assist with this, or the safety boat preparation.**
 - All club storage areas, are not accessible to participants.
 - Be cautious at all times on and off the water.
 
