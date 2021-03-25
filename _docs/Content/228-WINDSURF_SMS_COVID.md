@@ -71,4 +71,4 @@ The measures above will hopefully be relaxed as soon as government restrictions 
 - [Health and Safety Executive (HSE)](https://www.hse.gov.uk/news/coronavirus.htm)
 - [Foreign and Commonwealth Office](https://www.gov.uk/guidance/travel-advice-novel-coronavirus) 
 
-**[Continue to CERTIFICATION QUIZ](/clyde/Content/229-WINDSURF_SMS_QUIZ/)**
+**[Continue to CERTIFICATION QUIZ](/clyde/Content/229_WINDSURF_SMS_QUIZ/)**
