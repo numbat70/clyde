@@ -1,6 +1,6 @@
 ---
 title: Logs
-category: SUP Safety Management System
+category: WINDSURF Safety Management System
 order: 22
 ---
 We keep 3 Logs:

@@ -1,5 +1,5 @@
 ---
-title: SMS - Risk Assesment
+title: Risk Assesment
 category: SUP Safety Management System
 order: 20
 ---

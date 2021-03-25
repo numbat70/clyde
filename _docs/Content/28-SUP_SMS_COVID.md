@@ -1,5 +1,5 @@
 ---
-title: SMS - Covid Policy (Windsurf & SUP)
+title: Covid Policy (Windsurf & SUP)
 category: SUP Safety Management System
 order: 28
 ---

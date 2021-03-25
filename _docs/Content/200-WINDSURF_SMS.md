@@ -1,7 +1,7 @@
 ---
 title: Safety Management System
 category: WINDSURF Safety Management System
-order: 50
+order: 200
 ---
 
 ## Why we have a Safety Management System (SMS)
