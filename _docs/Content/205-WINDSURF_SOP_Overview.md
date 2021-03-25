@@ -36,4 +36,4 @@ These procedures cover the delivery of Windsurf training and related activities 
 - If a customer cancels with 24hours or greater notice, we will offer a full refund or alternative date (Customer to Choose)
 - If a customer cancels with less than 48 hours policy then we will offer an alternative date.
 
-**[Continue to SOP](/clyde/Content/205-WINDSURF_SOP_Overview/)**
+**[Continue to SOP](/clyde/Content/220-WINDSURF_RISK/)**
