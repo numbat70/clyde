@@ -1,12 +1,11 @@
 ---
 title: SOP - Overview
 category: WINDSURF Safety Management System
-order: 205
+order: 205 
 ---
 Date: 25</sup>TH</sup> March 2021
 
 These procedures cover the delivery of Stand Up Paddle-board training and related activities by Clyde Windsurfing BSUPA School.
-
 
 ## The School
 - Is a registered BSUPA school that can deliver these courses:
