@@ -79,4 +79,4 @@ The safety benefit of the RIB is very much greater than the COVID risk from oper
 The measures above will hopefully be relaxed as soon as government restrictions allow.
 
 
-**[Continue to SOP](/clyde/Content/220-WINDSURF_RISK/)**
+**[Continue to RISK ASSESSMENT](/clyde/Content/220-WINDSURF_RISK/)**
