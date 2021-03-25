@@ -37,7 +37,7 @@ order: 228
 - Be cautious at all times on and off the water.
 
 ## Safety Boats
-The safety benefit of the RIB is very much greater than the COVID risk from operating the RIB providing the precautions are followed:
+The safety benefit of the RIB, is much greater than the COVID risk from operating the RIB, providing these precautions are followed:
 
 - RIBs can only be operated by the session coach and assistant.
 - All RIB operations to follow these rules, during launching and recovery:
