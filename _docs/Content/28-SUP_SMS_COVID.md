@@ -1,5 +1,5 @@
 ---
-title: Covid Policy (Windsurf & SUP)
+title: Covid Policy (SUP)
 category: SUP Safety Management System
 order: 28
 ---
