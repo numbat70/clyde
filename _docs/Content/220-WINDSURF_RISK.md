@@ -86,4 +86,5 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure | Covid 19 C
 **Environment** <br>Unexpectedly poor weather  | All | Low initial severity if caught quickly. Raising severity if unresolved.  |  Instructor to maintain a constant watch on weather conditions and curtail the session before it becomes a problem. Make students aware in onshore demo that this may happen.
   |  |  |  |
 
-**[Continue to EAP](/clyde/Content/221-WINDSURF_EAP/)**  
+**[Continue to EAP](/clyde/Content/221-WINDSURF_EAP/)** 
+---
