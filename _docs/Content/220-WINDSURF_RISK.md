@@ -5,12 +5,14 @@ order: 220
 ---
 
 ## Types of Risk
-- **Generic (always the same)**
-- **Site Specific (specific to the location)**
-- **Dynamic (need to be assessed on the day and continuously during the activity)**
+- Generic (always the same)
+- Site Specific (specific to the location)
+- Dynamic (need to be assessed on the day and continuously during the activity)
 
 ## Levels of Risk
 ![Risk Matrix](https://numbat70.github.io/clyde/Content/risks.png "Risk Matrix")
+
+
 
 1. **Trivial** – No action is required and no documentary records need be kept
 2. **Tolerable** – No additional controls are required. Monitoring required ensuring controls are maintained
@@ -20,16 +22,8 @@ order: 220
 
 ---
 
-Risk - Generic
 
-Hazard | Who | Severity & Consequences (Potential) | ControlMeasure | Covid 19 Control
---- | --- | --- | --- | ---
-**Hazard** <br>Slip on Waterside environment | All | **Tolerable**<br> Bruises and broken bones up to concussion and neck injury | Educate participants about slip hazard and mandate suitable footwear or bare feet | Ensure that this is re-inforced in **pre-activity** briefing
-**Hazard** <br>Slips, Trips & Falls on route to water  | All | **Tolerable**<br> Bruises and broken bones up to concussion and neck injury |  Educate users on Trip Hazards as well as the safe way to carry SUP and Paddle. Highlight the length of SUP's and how to avoid hitting things when navigating with them on land. | Ensure that this is re-inforced in **pre-activity** briefing
-**Hazard** <br>Equipment failure  | All | **Trivial**.<br> Low initial severity if caught quickly. Raising severity if unresolved.  | All Kit checked prior to session (SOP Procedure) with a spare paddle carried by Instructor to meet most common equipment failure. <br> Maintain and inspect all club kit regularly and check any members own kit being used on courses.  | N/A
-**Hazard** <br>Damage to property  | All | **Tolerable**<br> |  Include handling procedures in initial safety briefing. | Ensure that participants understand limited handling described in Covid Standard Operating Procedures (Session Coach, Assistant & Compound manager are only people to handle kit before and after particpant)
-**Hazard** <br>Personal impact from board  | All | **Tolerable**<br> |  Safety briefing to pupils at start of course. <br>Boards to be secured or moved to safe storage area when not in use, never left unattended in strong winds. <br> Boards should be left with fins down in public areas so as not to present a hazard.<br> In blustery, squally conditions the number of boards on lochside should be minimised.<br>Safe falling highlighted in safety briefing and shore demo to avoid impact with board whilst falling. | Ensure that boards placed on the ground, allow minimum 2m spacing and do not touch at any point.
-**Surface** <br>Broken glass, cans or other sharp objects  | All | **Tolerable**<br>Potential for minor injury |  Training and rigging areas clearly defined to pupils and instructors. <br>Training and rigging areas checked and cleaned of excrement and sharp objects before each course
+
 ## Risk - Generic
 
 Hazard | Who | Severity & Consequences (Potential) | ControlMeasure | Covid 19 Control
@@ -57,6 +51,7 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure | Covid 19 C
 **Hazard** <br>Risk of pollution  | All | **Tolerable**<br>  |  Pollution control measures to be taken when disposing of engine oil. (Collected and taken to refuse centre that accepts oil)
 
 ## Risks - Lochwinnoch (Castle Semple Loch: Main Site)
+
 The Loch is quite a safe environment with most risks coming from shore hazards, wind and other water users.
 
 Hazard | Who | Severity & Consequences (Potential) | ControlMeasure | Covid 19 Control
@@ -87,4 +82,4 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure | Covid 19 C
   |  |  |  |
 
 **[Continue to EAP](/clyde/Content/221-WINDSURF_EAP/)** 
----
+

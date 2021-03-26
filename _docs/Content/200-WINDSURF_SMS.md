@@ -13,7 +13,7 @@ order: 200
 
 ## What is our Safety Management System (SMS)
 It is where all the relevant safety related documents, procedures and knowledge are collated, taught, shared and used.
-It includes these documents
+It includes these documents:
 
 ## 📕SOP (Standard Operating Procedures)
 These are the procedures that are followed by all Instructors that will ensure the safety of all participants.
