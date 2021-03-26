@@ -6,5 +6,3 @@ This Toolkit has been designed to make all the clubs processes and resources eas
 
 - Read the [SUP Safety Management System](https://numbat70.github.io/clyde/Content/01-SUP_SMS/)
 - Read the [Windsurfing Safety Management System](https://numbat70.github.io/clyde/Content/200-WINDSURF_SMS/)
-- Read [General posts](https://numbat70.github.io/clyde/Content/90-BSUPA/)
-- Read the [HowTo section](https://numbat70.github.io/clyde/Content/90-categories.html/)
