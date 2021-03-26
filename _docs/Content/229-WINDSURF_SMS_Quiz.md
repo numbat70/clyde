@@ -13,3 +13,4 @@ The test can be retaken until this score is reached. By this time the SMS should
 **The quiz scores are held alongside the Incident, Kit and Learning Logs**
 
 Use the [SMS Quiz](https://forms.gle/1Sieo5y6GY4HtBd89) to validate every 6 months
+
