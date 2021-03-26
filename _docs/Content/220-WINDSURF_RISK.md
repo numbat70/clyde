@@ -12,8 +12,6 @@ order: 220
 ## Levels of Risk
 ![Risk Matrix](https://numbat70.github.io/clyde/Content/risks.png "Risk Matrix")
 
-
-
 1. **Trivial** – No action is required and no documentary records need be kept
 2. **Tolerable** – No additional controls are required. Monitoring required ensuring controls are maintained
 3. **Moderate** – Efforts shall be maintained to reduce risk
@@ -58,14 +56,6 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure | Covid 19 C
 **Hazard** <br>Risk of petrol fire/explosion  |All  | **Tolerable**<br>  |  BOAT operators to be RYA level 2 powerboat qualified as a minimum<br> Appropriate fire extinguisher to be available<br>Storage area labelled with appropriate hazard signage
 **Hazard** <br>Risk of pollution  | All | **Tolerable**<br>  |  Pollution control measures to be taken when disposing of engine oil. (Collected and taken to refuse centre that accepts oil)
 
-
-
-
-
-
-
-
-
 ## Risks - Lochwinnoch (Castle Semple Loch: Main Site)
 The Loch is quite a safe environment with most risks coming from shore hazards, wind and other water users.
 
@@ -95,6 +85,5 @@ Hazard | Who | Severity & Consequences (Potential) | ControlMeasure | Covid 19 C
 **Others** <br>Windsurfers| All water users | Collision | Educate around likely areas of meeting other windsurfers Sailors will congregate around route marking buoys and this is an example of a location to avoid. | Ensure that all participants understand minimum of  2m distancing required even when racing and rounding buoys
 **Environment** <br>Unexpectedly poor weather  | All | Low initial severity if caught quickly. Raising severity if unresolved.  |  Instructor to maintain a constant watch on weather conditions and curtail the session before it becomes a problem. Make students aware in onshore demo that this may happen.
   |  |  |  |
-
 
 **[Continue to EAP](/clyde/Content/221-WINDSURF_EAP/)**  
