@@ -25,14 +25,10 @@ These are the procedures that are followed by all Instructors that will ensure t
 This is a functional document that defines what to do in case of an emergency, and also the relevant information, that will help you in these situations.
 
 
-*FURTHER DOCUMENTATION BEING DIGITISED FROM PAPER BASED VERSIONS.*
-
 ## 📕 Risk Assessment
 The Risk assessment covers all identified risks and will be updated as new ones arise.
 The **incident** and **learning** logs are key methods for identifying unexpected risks,
 
-
-*FURTHER DOCUMENTATION BEING DIGITISED FROM PAPER BASED VERSIONS.*
 
 ## 📝 Logs and Registers
 We keep 3 Logs
