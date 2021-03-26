@@ -15,9 +15,6 @@ order: 200
 It is where all the relevant safety related documents, procedures and knowledge are collated, taught, shared and used.
 It includes these documents
 
-1.  📕 [**Covid Policy & Procedure**](https://numbat70.github.io/clyde/Content/228-WINDSURF_SMS_COVID/)
-2.  *FURTHER DOCUMENTATION BEING DIGITISED FROM PAPER BASED VERSIONS.*
-
 ## 📕SOP (Standard Operating Procedures)
 These are the procedures that are followed by all Instructors that will ensure the safety of all participants.
 
