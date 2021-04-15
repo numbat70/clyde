@@ -30,4 +30,4 @@ The idea will be that you can enter all the events.
 The timings will not overlap.
 We will probably do the skills events at the end when your legs are nice and tired 😈
 
-**[Continue to Technical Race Details](/clyde/Content/101_EVENT_SUP_TECHNICAL)**
+**[Continue to Technical Race Details](/clyde/Content/301_EVENT_SUP_TECHNICAL)**
