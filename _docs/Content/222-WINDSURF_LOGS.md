@@ -31,7 +31,7 @@ Use the [Kit Reporting Form](https://forms.gle/ViqAmfApf2xAuQPb9) to log:
 3. Repairs to Kit
 4. Disposal of Kit
 
-## Incident Log
+## Learning Log
 This is for:
 - Learning that has come from experiences
 - Ideas or suggestions
