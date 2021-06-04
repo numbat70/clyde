@@ -36,7 +36,7 @@ It may also be needed for PDF/SVG/Sketch to display properly.
 - [Download SUP](https://numbat70.github.io/clyde/files/CLYDE_SUP_FEATHER_V2.png)
 - [Download WINDSURF](https://numbat70.github.io/clyde/files/CLYDE_WINDSURF_FEATHER_V2.png)
 
-# Back Wall FLAG
+# Back/BIG Wall FLAG
 
 - [Download Back Wall Flag (NO BORDER)](https://numbat70.github.io/clyde/files/CLYDE_BIG_WALL.png)
 - [Download Back Wall Flag (With Border/Surround)](https://numbat70.github.io/clyde/files/CLYDE_BIG_WALL_Surround.png) 
