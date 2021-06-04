@@ -20,7 +20,7 @@ It may also be needed for PDF/SVG/Sketch to display properly.
 
 ##  SUMMARY
 
-![Summary of Flags](https://numbat70.github.io/clyde/files/CLYDEFLAGSSUMMARY_V2.png)
+![Summary of Flags](https://numbat70.github.io/clyde/files/CLYDEFLAGSSUMMARY_V2b.png)
 
 ## WHITE FLAG
 
