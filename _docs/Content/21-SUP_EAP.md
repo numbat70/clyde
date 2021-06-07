@@ -24,7 +24,7 @@ The EAP contains contact details as well as Location details (described and anno
 
 
 
-## EAP Lochwinnoch
+## EAP Luss
 **Summary**
 - LUSS has acar park right on the waterfront.
 - Loch Lomond Winds can be changeable and strong. 
