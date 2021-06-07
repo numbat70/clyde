@@ -18,8 +18,12 @@ BUT
 
 The EAP contains contact details as well as Location details (described and annotated using **What3Words**)  
 
-- **[Read the full Lochwinnoch EAP here](/clyde/Content/EAP.pdf)**
+### Lochwinnoch
+- **[Lochwinnoch Emergency Action Plan (EAP)](/clyde/Content/EAP.pdf)**
 - **[Lochwinnoch Danger Areas map](/clyde/clyde_danger_areas_2021.pdf)**
+
+### Luss
+- **[Luss Emergency Action Plan (EAP)](/clyde/Content/eapLUSS.pdf)**
 
 Recent updates to the EAP's are the use of ["What 3 Words"](https://what3words.com) location indicators.
 
