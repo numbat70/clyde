@@ -4,14 +4,13 @@ category: WINDSURF Safety Management System
 order: 228
 ---
 
-- Activity can only take place if **all participants can maintain 2m distancing at all times**
-- The school is now in a **Tier 4 Area**. Only people from within that Tier 4 Area can attend sessions.
-- Juniors can cross boundaries if it is to attend their normal place of sport
+- The school is now in a **Tier 0 Area**. Only people from within that Tier 4 Area can attend sessions.
+
 
 # COVID Measures
 
 - Despite the great news regarding COVID, we still must operate with COVID preventative measures and restrictions in place.
-- Independent sailing and SUPing are permitted.
+
 
 ## Arival & Departure
 
@@ -29,11 +28,9 @@ order: 228
 - You must be a club member.
 - You must book a slot before you come to the club.
 - There is a limit on the session numbers. **You must have a slot booked before attending.**
-- 2m distancing at all times.
 - Use your own equipment, unless prior arrangement has been made with the Session Coach.
 - If equipment is required from the compound the the session coach may assign a volunteer as the "Compound Manager"
 - If a "Coached Session" offers the use of club kit, then it will be layed out for you by the Coach or Compound Manager before hand. They will handle delivery and recovery of any club kit. <br />**No parents or volunteers can assist with this, or the safety boat preparation.**
-- All club storage areas, are not accessible to participants.
 - Be cautious at all times on and off the water.
 
 ## Safety Boats
@@ -42,8 +39,6 @@ The safety benefit of the RIB, is much greater than the COVID risk from operatin
 - RIBs can only be operated by the Session Coach and Assistant.
 - All RIB operations to follow these rules, during launching and recovery:
   - Where possible, members of the same household to launch and recover boats (Session Coach and Assistant)
-  - All helpers must wear a face covering.
-  - All helpers must stay 2m apart - use ropes to pull the trolley and the boat if required
   - Clean all surfaces post useage
 
 We all need to understand and follow these precautions so that we can help everyone stay safe.
