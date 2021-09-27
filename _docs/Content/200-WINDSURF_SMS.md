@@ -39,7 +39,6 @@ We keep 3 Logs
 2. Kit Log
 3. Learning Log
 
-
 ## 📕 Covid Policy
 This policy is a constantly evolving document. Check it regularly for updates.
 - [**Covid Policy & Procedure**](https://numbat70.github.io/clyde/Content/228-WINDSURF_SMS_COVID/)
