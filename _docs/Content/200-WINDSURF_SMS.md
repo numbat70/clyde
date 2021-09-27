@@ -4,7 +4,6 @@ category: WINDSURF Safety Management System
 order: 200
 ---
 
-
 ## Why we have a Safety Management System (SMS)
 - Keep people Safe
 - Learn how to improve safety through experience
