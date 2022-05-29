@@ -1,6 +1,6 @@
 ---
-title: Water Safety
-category: Skills
+title: Emergency Action Plan
+category: Water Safety
 order: 1
 ---
 ## EAP (Emergency Action Plan)
