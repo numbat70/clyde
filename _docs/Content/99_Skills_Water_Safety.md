@@ -16,7 +16,7 @@ It is the homework that will pay off if you have an oncident during your trip.
 - Make sure everyone on the trip knows where it is (or has a copy)
 - Make sure that you understand where all the EAP's are
 - Rehearse it
-- If an incident happens then get it out and follow it. You and other team members may well be in shock. Following teh script will compensate foir this. 
+- If an incident happens then get it out and follow it. You and other team members may well be in shock. Following teh script will compensate for this. 
 
 ### Docs
 - [Template EAP](#)
