@@ -1,5 +1,5 @@
 ---
-title: Emergency Action Plan
+title: EAP (Emergency Action Plan)
 category: Water Safety
 order: 10
 ---
