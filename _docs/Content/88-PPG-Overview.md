@@ -16,7 +16,7 @@ The mid ground  is not  trained as it does not improve either endurance or speed
 
 Monday nights will be Speed/Strengthg training with skills also trained. 
 
-## Goals
+## Goals
 
 Think about your Goals in each of these areas over the next 3 months and then year.
 - Fitness/Performance
