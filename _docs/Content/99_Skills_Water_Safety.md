@@ -25,7 +25,7 @@ It is the homework that will pay off if you have an oncident during your trip.
 ### Other considerations
 - Having a way to write stuff down in wet conditions is useful. This is especially true when recording medical interventions that can be handed to the first responders (ambulance etc...)
 
-There are several motebooks that work in teh wet
+There are several notebooks that work in the wet
    - Rite in the Rain waterproof Notepad
    - Snugpak Water Reisit Notebook
    - RYA WetNotes
