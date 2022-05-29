@@ -11,5 +11,5 @@ It is the homework that will pay off if you have an oncident during your trip.
 - You research safe exit's, called Emergency Access Point's (EAP's) and generate useful  references  for them such  as what3words.
 
 ### Docs
-[Template EAP](#)
-[ExampleEAP](#)
+-[Template EAP](#)
+- [ExampleEAP](#)
