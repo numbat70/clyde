@@ -3,26 +3,25 @@ title: EAP (Emergency Action Plan)
 category: Water Safety
 order: 10
 ---
-## EAP (Emergency Action Plan)
-### What it is
+## What it is
 This is your action plan for when things go wrong. 
 It is the homework that will pay off if you have an oncident during your trip.
 - You document the procedures that you will follow. 
 - You document relevant information that is relevant to the trip
 - You research safe exit's, called Emergency Access Point's (EAP's) and generate useful references for them such as what3words.
 
-### How to use it
+## How to use it
 - Laminate it
 - Make sure everyone on the trip knows where it is (or has a copy)
 - Make sure that you understand where all the EAP's are
 - Rehearse it
 - If an incident happens then get it out and follow it. You and other team members may well be in shock. Following the script will compensate for this. 
 
-### Docs
+## Docs
 - [Template EAP](#)
 - [ExampleEAP](#)
 
-### Other considerations
+## Other considerations
 - Having a way to write stuff down in wet conditions is useful. This is especially true when recording medical interventions that can be handed to the first responders (ambulance etc...)
 
 There are several notebooks that work in the wet
