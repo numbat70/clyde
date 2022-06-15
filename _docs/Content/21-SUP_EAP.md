@@ -26,13 +26,12 @@ The EAP contains contact details as well as Location details (described and anno
 
 ## EAP Luss
 **Summary**
-```
-- LUSS has acar park right on the waterfront.
-- Loch Lomond Winds can be changeable and strong. 
-- Wind-chop can be considerable
-- Power boats can pass quite close at speed and create wakes. 
-- First aid needs to be carried to allow emergency aid to be applied on one of the Islands 
-```
+
+> - LUSS has acar park right on the waterfront.
+> - Loch Lomond Winds can be changeable and strong. 
+> - Wind-chop can be considerable
+> - Power boats can pass quite close at speed and create wakes. 
+> - First aid needs to be carried to allow emergency aid to be applied on one of the Islands 
 
 
 - **[Luss Emergency Action Plan (EAP)](/clyde/Content/eapLUSS.pdf)**
