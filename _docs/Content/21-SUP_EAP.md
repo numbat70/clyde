@@ -35,8 +35,6 @@ The EAP contains contact details as well as Location details (described and anno
 
 
 - **[Luss Emergency Action Plan (EAP)](/clyde/Content/eapLUSS.pdf)**
-
-
 - **[Template (EAP)](/clyde/Content/EAP_TEMPLATE_Public.pdf)**
 
 
