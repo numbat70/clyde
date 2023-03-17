@@ -18,6 +18,8 @@ It may also be needed for PDF/SVG/Sketch to display properly.
 ## Clyde Windsurfing & SUP:
 The Logo can be used as a Standalone Graphic or with the following text beneath it
 - Clyde Windsurfing & SUP
+- Clyde Windsurfing
+- Clyde SUP
 - Clyde
 - *No text* under the Logo
 
